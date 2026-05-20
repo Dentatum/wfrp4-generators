@@ -1,0 +1,23 @@
+{
+  "id": "wfrp4e-generators",
+  "title": "WFRP4e - Generators",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Dentatum",
+      "url": "https://ko-fi.com/dentatum",
+      "discord": ".dentatum",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "action": "manageModule",
+  "url": "https://github.com/Dentatum/wfrp4-generators",
+  "description": ""
+}

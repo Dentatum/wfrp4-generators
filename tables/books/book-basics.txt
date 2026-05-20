@@ -1,0 +1,112 @@
+genre;1;25;Biography;2
+genre;26;30;Bestiary;5
+genre;31;50;Cook Book;1
+genre;51;60;Fiction;1
+genre;61;70;Guidebook or Travel Account;4
+genre;71;90;Religious Doctrine;1
+genre;81;98;Scholarship;3
+genre;99;100;Forbidden, Exotic or Heretical Topic;8
+
+quality;1;3;Best;50
+quality;4;10;Good;25
+quality;11;80;Common;0
+quality;81;100;Poor;-25
+
+type;1;30;Printed;0
+type;31;90;Illuminated;20
+type;91;100;Illustrated;10
+
+age;1;10;New;-10
+age;11;60;Contemporary;0
+age;61;95;Recent;10
+age;96;99;Old;20
+age;100;Ancient;30
+
+condition;1;20;Mint;0
+condition;21;70;Used;-25
+condition;71;80;Poor;-50
+condition;81;100;Crumbled;-90
+
+features;1;5;It contains a lengthy foreword or dedication;0
+features;6;10;It starts with a prayer to appropriate deity;0
+features;11;15;Its first page has a portrait of the author;0
+features;16;20;The book looks unfinished, it ends abruptly after 3/4;-10
+features;21;25;The book contains magnificent pictures;10
+features;26;30;The title does not match with content;0
+features;31;35;The book is part of a series of volumes;0
+features;36;40;The cover is bound in ornate leather;10
+features;41;45;It has a colourful first page;5
+features;46;50;The binding is plain and unadorned;0
+features;51;55;The pages have very ornate lettering throughout;5
+features;56;60;The cover has metal hinges and clasps <em>(+1 Enc)</em>;5
+features;61;65;The cover has metal hinges and clasps, locking the book <b>(D0, SN3)</b><em>(+1 Enc)</em>;0
+features;66;70;Its cover is bound in heavy wooden frames <em>(+1 Enc)</em>;0
+features;71;75;The book's pages smell funky;0
+features;76;80;The title is embossed in large letters on cover;0
+features;81;85;It features no binding at all -pages are in a box or cloth;-10
+features;86;90;Pages are richly decorated;10
+features;91;95;If skimmed, something is found between two pages...;0
+features;96;100;;0
+
+peculiarities;1;25;;0
+peculiarities;26;30;The tone of the author is haughty and authoritative;0
+peculiarities;31;35;The grammar of the book constantly misuses words and idioms;0
+peculiarities;36;40;The book is obviously not written in the author's mother tongue;0
+peculiarities;41;45;The book has horrible spelling;0
+peculiarities;46;50;The grammar, wording and spelling are synthetically archaic;0
+peculiarities;51;55;The language used is simple, straightforward and unadorned <em>(+10 to Language tests)</em>;0
+peculiarities;56;60;The grammar and vocabulary are unnecessarily convoluted <em>(-10 to Language tests)</em>;0
+peculiarities;61;65;Text shows evidence of being the work of more than one author;0
+peculiarities;66;70;The book is a compilation or anthology;0
+peculiarities;71;75;The language used is archaic and cryptic <em>(-10 to Language tests)</em>;0
+peculiarities;76;80;The dialect or social standing of the author is very obvious from the text;0
+peculiarities;81;85;Interesting notes are scribbled here and there throughout the book;0
+peculiarities;86;90;The lettering or handwriting is exceptionally ornate <em>(-10 to Language tests)</em>;0
+peculiarities;91;100;;0
+
+origin;1;25;The Empire;0
+origin;26;28;Averland;0
+origin;29;31;Hochland;0
+origin;32;34;Middenland;0
+origin;35;36;Nordland;0
+origin;37;38;Ostermark;0
+origin;39;40;Ostland;0
+origin;41;44;Reikland;0
+origin;45;48;Stirland;0
+origin;49;53;Talabecland;0
+origin;54;56;Wissenland;0
+origin;57;57;Sylvania;0
+origin;58;59;The Moot;0
+origin;60;64;Altdorf;0
+origin;65;68;Nuln;0
+origin;69;72;Middenheim;0
+origin;73;76;Marienburg;0
+origin;77;80;Bretonnia;0
+origin;81;81;Border Princes;0
+origin;82;82;Estalia;0
+origin;83;84;Kislev;0
+origin;85;86;Norsca;0
+origin;87;88;Tilea;0
+origin;89;89;Wasteland;0
+origin;90;90;Grey Mountains;0
+origin;91;91;Black Mountains;0
+origin;92;92;The Vaults;0
+origin;93;93;World’s Edge Mountains;0
+origin;94;94;Middle Mountains;0
+origin;95;95;The River Reik;0
+origin;96;96;The River Sol;0
+origin;97;97;The River Talabec;0
+origin;98;98;The River Stir;0
+origin;99;99;Drakwald;0
+origin;100;100;Great Forest;0
+
+language;1;2;Breton;0
+language;3;3;Estalian;0
+language;4;4;Kislevian;0
+language;5;5;Tilean;0
+language;6;6;Norse;0
+language;7;7;Classical;50
+language;8;8;Khazalid (Dwarfish));100
+language;9;9;Eltharin (Elvish);100
+language;10;10;Other;200
+language;11;100;Reikspiel;0

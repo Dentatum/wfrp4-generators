@@ -1,0 +1,68 @@
+Biography;1;3;;Accomplishments;of Emperor Karl Franz
+Biography;4;6;Admirable;Accounts;of Magnus the Pious
+Biography;7;9;Blood-dimmed;Achievements;of Sigmar Heldenhammer
+Biography;10;12;Celebrated;Ambition;of the Todbringers of Middenheim
+Biography;13;15;Classical;Annals;of the Ludenhofs of Hochland
+Biography;16;18;Collected;Archives;of the Gaussers of Nordland
+Biography;19;21;Compiled;Aspirations;of the Hertwigs of Ostermark
+Biography;22;24;Complete;Chronicles;of von Raukovs of Ostland
+Biography;25;27;Comprehensive;Confessions;of the Haupt-Anderssens of Stirland
+Biography;28;30;Empirical;Conundums;of the von Krieglitz-Unterns of Talabheim
+Biography;31;33;Exposed;Deeds;of the von Krieglitz' of Talabecland
+Biography;34;36;Faithful;Deliberations;of the von Liebwitz' of Wissenland
+Biography;37;39;Final;Desires;of the Leitdörfers of Averland
+Biography;40;42;Finest;Digest;of <em>[Name]</em> the <em>[Career]</em>
+Biography;43;45;Gallant;Efforts;of <em>[Name]</em> the Artisan
+Biography;46;48;Gathered;Endeavour;of <em>[Name]</em> the Captain
+Biography;49;51;Gilded;Enquiry;of <em>[Name]</em> the Champion
+Biography;52;54;Glorious;Essays;of <em>[Name]</em> the Crime Lord
+Biography;55;57;Grandiose;Existence;of <em>[Name]</em> the Demagogue
+Biography;58;60;Great;Exploits;of <em>[Name]</em> the Duellist
+Biography;61;63;Heretical;Feats;of <em>[Name]</em> the Engineer
+Biography;64;66;Honest;Findings (on);of <em>[Name]</em> the Exorcist
+Biography;67;68;Ill-Fated;History;of <em>[Name]</em> the Explorer
+Biography;69;70;Illuminative;Labours;of <em>[Name]</em> the Friar
+Biography;71;72;Laudable;Life;of <em>[Name]</em> the Guild Master
+Biography;73;74;Misunderstood;Notes;of <em>[Name]</em> the Highwayman
+Biography;75;76;Noble;Opus;of <em>[Name]</em> the Knight
+Biography;77;78;Perfect;Prophecies;of <em>[Name]</em> the Merchant
+Biography;79;80;Proven;Records;of <em>[Name]</em> the Minstrel
+Biography;81;82;Revealed;Revelations;of <em>[Name]</em> the Noble
+Biography;83;84;Fine;Study;of <em>[Name]</em> the Outlaw Chief
+Biography;85;86;Splendid;Tales;of <em>[Name]</em> the Physician
+Biography;87;88;Tempting;Testimonies;of <em>[Name]</em> the Politician
+Biography;89;90;Traitorous;Transcripts;of <em>[Name]</em> the Priest
+Biography;91;92;Truthful;Treatise (on);of <em>[Name]</em> the Scholar
+Biography;93;94;Unambiguous;Triumphs;of <em>[Name]</em> the Sea Captain
+Biography;95;96;Uncovered;Visions;of <em>[Name]</em> the Veteran
+Biography;95;96;Unearthed;Vocation;of <em>[Name]</em> the Witch Hunter
+Biography;97;00;Zealous;Words;of <em>[Name]</em> the Wizard
+
+biocontent;1;7;For Which He Was Burnt;Slightly disapproving, thinks subject should have done better
+biocontent;8;14;Second Printing;Biased, lauding, and flattering: a commissioned work?
+biocontent;15;21;Third Printing;Ill-kept contempt and scorn: definitely no admirer of subject
+biocontent;22;28;A True Heir of Sigmar;Believes subject is or was an agent of the Ruinous Powers
+biocontent;29;35;Now Edited and Enlarged;Seems to believe subject is a direct descendant of Sigmar
+biocontent;36;42;Previously Unpublished;Uninterested and uncaring, but also quite unbiased
+biocontent;43;49;The Complete Volume;Author seems more interested in the time-period than the subject
+biocontent;50;57;Recorded After His Death;Belittles and demeans subject rather ingeniously
+biocontent;58;65;Published in Interest of All;Written as if subject was a personal acquaintance
+biocontent;66;72;True and Honest Accounts;It is evident that author disapproves of subject’s religiosity
+biocontent;73;80;A Fate Forfeit;Constantly questions and mistrusts the subject’s acts
+biocontent;81;87;A Dangerous Mind;Conspiracy-theorist, looks for ties to Outlaws (and worse)
+biocontent;88;93;Published by <em>[Name]</em>; Written from a matter-of-fact and unemotional perspective
+biocontent;94;100;Edited by <em>[Name]</em>;Author seems to be a follower of the Ruinous Powers…
+
+Bestiary
+
+Cook Book
+
+Fiction
+
+Guidebook or Travel Account
+
+Religious Doctrine
+
+Scholarship
+
+Forbidden, Exotic or Heretical Topic
