@@ -20,7 +20,7 @@ age;1;10;New;-10
 age;11;60;Contemporary;0
 age;61;95;Recent;10
 age;96;99;Old;20
-age;100;Ancient;30
+age;100;100;Ancient;30
 
 condition;1;20;Mint;0
 condition;21;70;Used;-25

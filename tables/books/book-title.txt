@@ -1,4 +1,4 @@
-Biography;1;3;;Accomplishments;of Emperor Karl Franz
+Biography;1;3;;Accomplishments;of Emperor <em>[Name]</em>
 Biography;4;6;Admirable;Accounts;of Magnus the Pious
 Biography;7;9;Blood-dimmed;Achievements;of Sigmar Heldenhammer
 Biography;10;12;Celebrated;Ambition;of the Todbringers of Middenheim
@@ -35,33 +35,269 @@ Biography;89;90;Traitorous;Transcripts;of <em>[Name]</em> the Priest
 Biography;91;92;Truthful;Treatise (on);of <em>[Name]</em> the Scholar
 Biography;93;94;Unambiguous;Triumphs;of <em>[Name]</em> the Sea Captain
 Biography;95;96;Uncovered;Visions;of <em>[Name]</em> the Veteran
-Biography;95;96;Unearthed;Vocation;of <em>[Name]</em> the Witch Hunter
-Biography;97;00;Zealous;Words;of <em>[Name]</em> the Wizard
+Biography;97;98;Unearthed;Vocation;of <em>[Name]</em> the Witch Hunter
+Biography;99;100;Zealous;Words;of <em>[Name]</em> the Wizard
 
-biocontent;1;7;For Which He Was Burnt;Slightly disapproving, thinks subject should have done better
-biocontent;8;14;Second Printing;Biased, lauding, and flattering: a commissioned work?
-biocontent;15;21;Third Printing;Ill-kept contempt and scorn: definitely no admirer of subject
-biocontent;22;28;A True Heir of Sigmar;Believes subject is or was an agent of the Ruinous Powers
-biocontent;29;35;Now Edited and Enlarged;Seems to believe subject is a direct descendant of Sigmar
-biocontent;36;42;Previously Unpublished;Uninterested and uncaring, but also quite unbiased
-biocontent;43;49;The Complete Volume;Author seems more interested in the time-period than the subject
-biocontent;50;57;Recorded After His Death;Belittles and demeans subject rather ingeniously
-biocontent;58;65;Published in Interest of All;Written as if subject was a personal acquaintance
-biocontent;66;72;True and Honest Accounts;It is evident that author disapproves of subject’s religiosity
-biocontent;73;80;A Fate Forfeit;Constantly questions and mistrusts the subject’s acts
-biocontent;81;87;A Dangerous Mind;Conspiracy-theorist, looks for ties to Outlaws (and worse)
-biocontent;88;93;Published by <em>[Name]</em>; Written from a matter-of-fact and unemotional perspective
+biocontent;1;7;For Which He Was Burnt;The content is slightly disapproving, and the author thinks subject should have done better.
+biocontent;8;14;Second Printing;The content is biased, lauding, and flattering. Maybe is a commissioned work...?
+biocontent;15;21;Third Printing;Words inside are full of contempt and scorn. Definitely the author is no admirer of subject.
+biocontent;22;28;A True Heir of Sigmar;The author fervently believes subject is or was an agent of the Ruinous Powers.
+biocontent;29;35;Now Edited and Enlarged;The author seems to believe subject is a direct descendant of Sigmar.
+biocontent;36;42;Previously Unpublished;The tone of the content is uninterested and uncaring, but also quite unbiased.
+biocontent;43;49;The Complete Volume;The author seems more interested in the time-period than the subject.
+biocontent;50;57;Recorded After His Death;The author belittles and demeans subject rather ingeniously.
+biocontent;58;65;Published in Interest of All;The content is written as if subject was a personal acquaintance.
+biocontent;66;72;True and Honest Accounts;By the look of its content, it is evident that author disapproves of subject’s religiosity.
+biocontent;73;80;A Fate Forfeit;The author constantly questions and mistrusts the subject’s acts.
+biocontent;81;87;A Dangerous Mind;The author is clearly a conspiracy-theorist, they are looking for ties to Outlaws (or worse) when there's a chance.
+biocontent;88;93;Published by <em>[Name]</em>;The book is written from a matter-of-fact and unemotional perspective.
 biocontent;94;100;Edited by <em>[Name]</em>;Author seems to be a follower of the Ruinous Powers…
 
-Bestiary
+Bestiary;1;7;;Animals;of;Manaan
+Bestiary;8;14;Detestable;Beasts;of;the Tooth
+Bestiary;15;21;Enquiries on the;Beings;of;the Farm
+Bestiary;22;28;Essays on the;Childer;of;the Swamps
+Bestiary;29;35;Facts of the;Children;of;the Woods
+Bestiary;36;42;Findings on the;Creatures;of;the Saddle
+Bestiary;43;49;Horrifying;Denizens;of;the Swarm
+Bestiary;50;56;Ideas on the;Dwellers;of;the Skies
+Bestiary;57;63;Lectures on the;Inhabitants;of;the Hive
+Bestiary;64;70;Lessons on the;Lords;of;Ulric
+Bestiary;71;73;Loathsome;Masters;of;Hunger
+Bestiary;74;76;Opinions on the;Minds;of;Myth
+Bestiary;77;79;Reports on the;Natives;of;the Tomb
+Bestiary;80;82;Seminars on the;Residents;of;the Grave
+Bestiary;83;85;Study on the;Servants;of;Savagery
+Bestiary;86;88;Survey of the;Sons;of;Ruin
+Bestiary;89;92;Theories on the;Souls;of;Blood
+Bestiary;93;96;Thesis on the;Spirits;of;the Horned Rat
+Bestiary;97;100;Treatise on the;Tenants;of;Chaos
 
-Cook Book
+bestcontent;1;7;aquatic creatures, fish, crayfish, squids...
+bestcontent;8;14;rodents, mice, rats, squirrels, beavers...
+bestcontent;15;21;domestic animals, cows, goats, dogs, chicken...
+bestcontent;22;28;amphibians, lizards, snakes, frogs...
+bestcontent;29;35;wild mammals, bears, elk, rabbits, deer...
+bestcontent;36;42;mounts, including horses, donkeys, mules...
+bestcontent;43;49;insects including ants, flies, butterflies..
+bestcontent;50;56;wild birds.
+bestcontent;57;63;bees and wasps.
+bestcontent;64;70;wolves.
+bestcontent;71;73;all kinds of Trolls.
+bestcontent;74;76;mythical beast like Dragons, probably a hoax.
+bestcontent;77;79;incorporeal undead like Ghosts and Spectres.
+bestcontent;80;82;material undead like Skeletons and Ghouls.
+bestcontent;83;85;Goblinoid races, Orcs and Goblins.
+bestcontent;86;88;Beastmen, Minotaurs and Mutants.
+bestcontent;89;92;Vampires.
+bestcontent;93;96;Skaven.
+bestcontent;97;100;Chaos Warriors, Marauders and Dwarfs.
 
-Fiction
+bestcontent2;1;10;;There is no principal field studied. It's just an overview of all aspects of the creatures.
+bestcontent2;11;20;The Lore of Beasts;The book focuses on the beasts usage as food (not necessarily for Humans...).
+bestcontent2;21;30;Servants of Taal?;The book focuses on how to train or interact with the beasts in question.
+bestcontent2;31;40;Call of the Wild;The book focuses on how the creatures mentioned can be used as medicine (or poison).
+bestcontent2;41;50;The Erudite Colloquia of Nuln;The book focuses on the feeding habits and preferred foods of the animal represented.
+bestcontent2;51;60;Wonderful Wild;The book talks about mating rituals, selection of mates and rearing of the young ones.
+bestcontent2;61;70;Magnificent Creatures;The book is a study of the creatures typical lairs and habitats.
+bestcontent2;71;80;A Study of Creatures Fair and Foul;The book talks about their methods of defense and attack.
+bestcontent2;81;90;A Hypothesis Most Remarkable;The book analyses their social status and interaction within a group or horde.
+bestcontent2;91;100;A Natural Philosophy;The book primarily deals with the creatures typical environment.
 
-Guidebook or Travel Account
+Cook Book;1;5;Appetizing;Beers;from
+Cook Book;6;10;Customary;Breads & Biscuits;from
+Cook Book;11;15;Delicious;Cookery;from
+Cook Book;16;20;Delightful;Delicacies;from
+Cook Book;21;25;Enticing;Desserts;from
+Cook Book;26;30;Fabulous;Fare;from
+Cook Book;31;35;Favourite;Foods;from
+Cook Book;36;40;Forgotten;Hostels;from
+Cook Book;41;45;Innovative;Kitchen;from
+Cook Book;46;50;Marvellous;Meals;from
+Cook Book;51;55;Overlooked;Menus;from
+Cook Book;56;60;Precious;Pies;from
+Cook Book;61;65;Quickening;Repasts;from
+Cook Book;66;70;Scrumptious;Sausages;from
+Cook Book;71;75;Splendid;Soups;from
+Cook Book;76;80;Tantalizing;Stews;from
+Cook Book;81;85;Tempting;Tables;from
+Cook Book;86;90;Time-honoured;Treats;from
+Cook Book;91;95;Traditional;Wines;from
+Cook Book;96;100;Hearty;Preserves;from
 
-Religious Doctrine
+cbcontent;1;5;The Bounty of Esmeralda
+cbcontent;6;10;The Bretonnian’s Choice
+cbcontent;11;15;The Forgotten Fare
+cbcontent;16;20;The Garnet Guide
+cbcontent;21;25;A Horn of Plenty
+cbcontent;26;30;Contemporary Cuisine
+cbcontent;31;35;An Essential Guide to the Kitchen
+cbcontent;36;40;Secrets of the Hearth Revealed
+cbcontent;41;45;Prestigious Pots and Platters
+cbcontent;46;50;A Seductive Selection
+cbcontent;51;55;[[/r 4d10]] Mouth-watering Recipes
+cbcontent;56;60;Roll 3d10 and add the result before title
+cbcontent;61;65;By <em>[Name]</em>, Chef Appointed to the Court
+cbcontent;66;70;By the Famous Cook <em>[Name]</em>
+cbcontent;71;75;The Cuisine of
+cbcontent;76;80;The Cuisine of
+cbcontent;81;85;The Tastes of
+cbcontent;86;90;The Tastes of
+cbcontent;91;95;The Kitchen of
+cbcontent;96;100;The Taverns of
+
+Guidebook or Travel Account;1;4;Amazing;Accounts from
+Guidebook or Travel Account;5;8;Astonishing;Adventures from
+Guidebook or Travel Account;9;12;Beaten;Annals from
+Guidebook or Travel Account;13;16;Classic;Chronicles from
+Guidebook or Travel Account;17;20;Contemplative;Crossings of
+Guidebook or Travel Account;21;24;Dangerous;Domains of
+Guidebook or Travel Account;25;28;Distant;Footpaths of
+Guidebook or Travel Account;29;32;Dusty;Footprints of
+Guidebook or Travel Account;33;36;Evocative;Inns of
+Guidebook or Travel Account;37;40;Faraway;Journals from
+Guidebook or Travel Account;41;44;Lovely;Journey in
+Guidebook or Travel Account;45;48;Memorable;Lands of
+Guidebook or Travel Account;49;52;My;Notes from
+Guidebook or Travel Account;53;56;Mysterious;Paths of
+Guidebook or Travel Account;57;60;Noble;Promenades of
+Guidebook or Travel Account;61;64;Noteworthy;Roads of
+Guidebook or Travel Account;65;68;Perilous;Steps of
+Guidebook or Travel Account;69;72;Remarkable;Streets of
+Guidebook or Travel Account;73;76;Strange;Sunrises of
+Guidebook or Travel Account;77;80;Treacherous;Sunsets of
+Guidebook or Travel Account;81;84;Unknown;Tracks of
+Guidebook or Travel Account;85;88;Weathered;Tracts of
+Guidebook or Travel Account;89;92;Wild;Travels in
+Guidebook or Travel Account;93;96;;Voyages in
+Guidebook or Travel Account;97;100;;Perils of
+
+guidecontent;1;4;A Guidebook
+guidecontent;5;8;A Life on the Road Recalled
+guidecontent;9;12;A Walkabout in the Wild
+guidecontent;13;16;A Voyage Remembered
+guidecontent;17;20;Alleys & Aqueducts
+guidecontent;21;24;Being the True and Honest Accounts
+guidecontent;25;28;Castles & Cul de sacs
+guidecontent;29;32;Country of Boon and Bounty
+guidecontent;33;36;Crossroads of a Courier
+guidecontent;37;40;In the Footsteps of Our Most Revered Fathers
+guidecontent;41;44;Inroads of the Outback
+guidecontent;45;48;Journals of a Journey
+guidecontent;49;52;Manors & Mansions
+guidecontent;53;56;On the Road
+guidecontent;57;60;Perilous Paths of an Empire in Flames
+guidecontent;61;64;Beyond the Safety of the Coaching Inns
+guidecontent;65;68;Rivers and Rendezvous
+guidecontent;69;72;Rumours & Reports
+guidecontent;73;76;Tales of a Rover
+guidecontent;77;80;The Road to Redemption Revealed
+guidecontent;81;84;There and Back Again
+guidecontent;85;88;Troubled Trails of a Tract Most Terrible
+guidecontent;89;92;A Wanderer's Warnings and Wisdoms
+guidecontent;93;96;The Toll-Gate Dodger's Companion
+guidecontent;97;100;Notes from a Blood-Stained Map
+
+Fiction;1;4;Black;Autumn
+Fiction;5;8;Colour of;Awakening
+Fiction;9;12;Dying;Crown
+Fiction;13;16;First;Dawn
+Fiction;17;20;Glorious;Evening
+Fiction;21;24;Golden;Flower
+Fiction;25;28;Her;Hand
+Fiction;29;32;His;Heart
+Fiction;33;36;Last;Legend
+Fiction;37;40;Laudable;Light
+Fiction;41;44;Ominous;Memory
+Fiction;45;48;Penultimate;Morning
+Fiction;49;52;Persistent;Prize
+Fiction;53;56;Red;Saga
+Fiction;57;60;Silent;Shadow
+Fiction;61;64;Soft;Spring
+Fiction;65;68;Splendid;Story
+Fiction;69;72;White;Summer
+Fiction;73;76;Wondrous;Tale
+Fiction;77;80;Year of (the);Tear
+Fiction;81;84;The;Time
+Fiction;85;89;Four;Water
+Fiction;90;95;<em>[Name]</em>’s;Wind
+Fiction;96;100;<em>[Career]</em>’s;Winter
+
+ficontent;1;4;The book is an antology of sleazy "love stories" (borderline pornographic).
+ficontent;5;8;The book contains instructive moral stories for young lovers.
+ficontent;9;12;The book is a collection of traditional fables and fairytales.
+ficontent;13;16;This is a book about ghost and horror stories.
+ficontent;17;20;This is a classical novel, written by a famous author.
+ficontent;21;24;This book is the first part of an epic (and rather dry) love story.
+ficontent;25;28;This book talks about a struggle of an emerging Marienburg merchant family.
+ficontent;29;32;The novel is about a family feud that has gone on for generations.
+ficontent;33;36;This book is a sad tale of the life of a destitute maiden.
+ficontent;37;40;It's a conformist story of a righteous baron and his reign.
+ficontent;41;44;This novel is about a glamorous ball recalled by ten different people.
+ficontent;45;48;It's a recollection of a plague that afflicted a small town. So crude it looks more historical.
+ficontent;49;52;It's a dark folktale of a family of peasants who were burnt as witches.
+ficontent;53;56;This is rather an unblushing appraisal of an old Emperor.
+ficontent;57;60;This is a collection of love poems on common theme.
+ficontent;61;64;This is a stage play, some kind of comedy.
+ficontent;65;68;This is a stage play, a tragedy.
+ficontent;69;72;This is a stage play, a drama.
+ficontent;73;76;It's a songbook, containing a collection of lullabies and children’s songs.
+ficontent;77;80;It's a songbook, containing mostly traditional tunes.
+ficontent;81;84;It's a songbook, containing religious hymns.
+ficontent;85;89;It's a book on art, describing and representing paintings.
+ficontent;90;95;It's a book on art, describing and representing calligraphy and illumination.
+ficontent;96;100;It's a book on art, describing and representing pottery and glassblowing.
+
+Religious Doctrine;1;2;-;Addresses;of;the Nature of the Divine
+Religious Doctrine;3;4;The;Articles;of;Manaan
+Religious Doctrine;5;6;A Study of the;Commandments;of;the Matriarchs of Manaan
+Religious Doctrine;7;8;Absolute;Commands;of;the Coastal Monasteries
+Religious Doctrine;9;10;Ardent;Condition;of;the Doomsday Cults of the Slums
+Religious Doctrine;11;12;Blessed;Contradictions;of;Morr
+Religious Doctrine;13;14;Categorical;Course;of;the Order of the Shroud
+Religious Doctrine;15;16;Collected;Decrees;of;the Augurs of the Black Rose
+Religious Doctrine;17;18;Comprehensive;Deliberations;of;the Fellowship of the Shroud
+Religious Doctrine;19;20;Conclusive;Demands;of;the Augurs of Morr
+Religious Doctrine;21;22;Consecrated;Demonstrations;of;Myrmydia
+Religious Doctrine;23;24;Constant;Dicta;of;<em>[Name]</em>, a Renowned Martyr of the Faith
+Religious Doctrine;25;26;Essential;Direction;of;the Order of the Righteous Spear
+Religious Doctrine;27;28;Established;Directives;of;the Holy Synods and their Decrees
+Religious Doctrine;29;30;Extreme;Discourses;of;the Priests of Myrmidia
+Religious Doctrine;31;32;Faithful;Elements;of;<em>[Name]</em>, Veteran Chaplain of the Armies
+Religious Doctrine;33;34;Fervent;Errors;of;Ranald
+Religious Doctrine;35;36;Gathered;Exigencies;of;the Afterlife and the Final Judgment
+Religious Doctrine;37;38;Golden;Expositions;of;the priests of Marienburg
+Religious Doctrine;39;40;Hallowed;Fundamentals;of;Rhya and Taal
+Religious Doctrine;41;42;Holy;Fundaments;of;the Rural Shrines and their Keepers
+Religious Doctrine;43;44;Humble;Imperatives;of;<em>[Name]</em>, a Defrocked Priest Turned Charlatan
+Religious Doctrine;45;46;Orthodox;Inconsistencies;of;the Hierarchs of Taal
+Religious Doctrine;47;48;Pious;Instructions;of;the Defenders of the Holy Relics
+Religious Doctrine;49;50;Potent;Lectures;of;the Order of the Bleeding Heart
+Religious Doctrine;51;52;Primary;Mandates;of;Shallya the Purifier
+Religious Doctrine;53;54;Prime;Miracles;of;the High Priestesses of Shallya
+Religious Doctrine;55;56;Principal;Mysteries;of;Sigmar
+Religious Doctrine;57;58;Revered;Papers;of;the Order of the Silver Hammer
+Religious Doctrine;59;60;Reverent;Paths;of;the Order of the Torch
+Religious Doctrine;61;62;Righteous;Preaching;of;the Order of the Cleansing Flame
+Religious Doctrine;63;64;Rigorous;Procedures;of;the Hermits of the Mountain Peaks
+Religious Doctrine;65;66;Sacred;Proof;of;the Grand Theogonists
+Religious Doctrine;67;68;Sacrosanct;Prophecies;of;the Wandering Prophets of the Roads
+Religious Doctrine;69;70;Sanctified;Questions;of;the Pilgrims
+Religious Doctrine;71;72;Sanctimonious;Requests;of;<em>[Name]</em>, lector of Sigmar
+Religious Doctrine;73;74;Scruplous;Requirements;of;Ulric
+Religious Doctrine;75;76;Stringent;Revelations;of;the Order of the Howling Wolf
+Religious Doctrine;77;78;Summative;Rudiments;of;the Knights of the White Wolf
+Religious Doctrine;79;80;Superlative;Salvation;of;the Traditionalists of the Old Faith
+Religious Doctrine;81;82;Supreme;Sermons;of;the State Religion and its Dogma
+Religious Doctrine;83;84;Thoughts on the;Stipulations;of;the Ar-Ulric
+Religious Doctrine;85;86;Time-Honoured;Tablet;of;Verena
+Religious Doctrine;87;88;Treatise on the;Teachings;of;the Order of Mysteries
+Religious Doctrine;89;90;True;Testimonies;of;the Monastic Librarians and Archivists
+Religious Doctrine;91;92;Ultimate;Transcripts;of;the High Priests of Verena
+Religious Doctrine;93;94;Unconditional;Treatises;of;the Elven gods and religion
+Religious Doctrine;95;96;Virtuous;Truths;of;the Dwarven gods and religion
+Religious Doctrine;97;98;Zealous;Visions;of;the Halfling gods and religion
+Religious Doctrine;99;100;Heretical;Confessions;of;the Divine Patrons of Commerce and Coin
 
 Scholarship
 
