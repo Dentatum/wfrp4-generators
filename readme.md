@@ -2,7 +2,7 @@
 
 This module provides a collection of macros designed to generate randomized elements for **Warhammer Fantasy Roleplay 4th Edition (WFRP4e)**—including settlements, books, inns, and more.
 
-These generators have been extracted from *Liber Fanatica*, a series of fan-made supplements created for WFRP2. This module extracts some of its most useful generative tables and adapts them for the latest edition.
+These generators have been extracted from *Liber Fanatica*, a series of fan-made supplements created for WFRP2. This module extracts some of its roll tables and adapts and automates them for the latest edition. Instead of being lost in pages and documents, all generators are included and formatted for friendly use.
 
 ## Installation
 
