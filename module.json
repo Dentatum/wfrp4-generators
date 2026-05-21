@@ -43,5 +43,6 @@
   },
   "description": "<p>A collection of generators of random items for WFRP4, based on Liber Fanatica series.</p>",
   "manifest": "https://raw.githubusercontent.com/Dentatum/wfrp4-generators/refs/heads/main/module.json",
-  "url": "https://github.com/Dentatum/wfrp4-generators/archive/refs/heads/main.zip"
+  "url": "https://github.com/Dentatum/wfrp4-generators",
+  "download": "https://github.com/Dentatum/wfrp4-generators/archive/refs/heads/main.zip"
 }
