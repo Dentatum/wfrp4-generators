@@ -19,5 +19,29 @@
   },
   "action": "manageModule",
   "url": "https://github.com/Dentatum/wfrp4-generators",
+  "packs": [
+    {
+      "name": "generators",
+      "label": "Generators",
+      "path": "packs/gens",
+      "type": "Macro",
+	  "banner": "img/generators.webp",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "wfrp4e",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "wfrp4e",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
   "description": ""
 }
