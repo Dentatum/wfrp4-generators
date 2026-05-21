@@ -14,3 +14,9 @@ You can install this module manually in Foundry VTT by using the manifest link.
    `https://raw.githubusercontent.com/Dentatum/wfrp4-generators/refs/heads/main/module.json`
 4. Click **Install**.
 5. Once inside your world, go to the **Manage Modules** settings and enable the module.
+
+## How to use
+
+The module will load a compendium called *Generators*. All you have to do is opening it, clicking on any of the macros it contains and click on *Execute Macro*. You can also drag and drop the macro into the hotbar and use it from there.
+
+A message will pop up in chat, as a whisper to the GM, with random information about whatever the macro is about (a book, an inn, a settlement...). In some cases, an item will also be created in the items menu, inside a new folder called *Generator - XXX* with the information the chat message contains.
