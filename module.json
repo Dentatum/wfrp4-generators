@@ -23,9 +23,9 @@
     {
       "name": "generators",
       "label": "Generators",
+	  "banner": "img/generators.webp",
       "path": "packs/gens",
       "type": "Macro",
-	  "banner": "img/generators.webp",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
