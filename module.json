@@ -18,12 +18,11 @@
     "canUpload": true
   },
   "action": "manageModule",
-  "url": "https://github.com/Dentatum/wfrp4-generators",
   "packs": [
     {
       "name": "generators",
       "label": "Generators",
-	  "banner": "./modules/wfrp4e-generators/img/generators.webp",
+      "banner": "./modules/wfrp4e-generators/img/generators.webp",
       "path": "packs/gens",
       "type": "Macro",
       "ownership": {
@@ -43,5 +42,7 @@
       }
     ]
   },
-  "description": "A collection of generators of random items for WFRP4, based on Liber Fanatica series"
+  "description": "<p>A collection of generators of random items for WFRP4, based on Liber Fanatica series.</p>",
+  "url": "https://github.com/Dentatum/wfrp4-generators",
+  "manifest": "https://raw.githubusercontent.com/Dentatum/wfrp4-generators/refs/heads/main/module.json"
 }
