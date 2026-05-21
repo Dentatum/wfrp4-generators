@@ -22,7 +22,6 @@
     {
       "name": "generators",
       "label": "Generators",
-      "banner": "./modules/wfrp4e-generators/img/generators.webp",
       "path": "packs/gens",
       "type": "Macro",
       "ownership": {
