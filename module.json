@@ -3,7 +3,7 @@
   "title": "WFRP4e - Generators",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "14",
+    "minimum": "13",
     "verified": "14"
   },
   "authors": [
@@ -43,5 +43,5 @@
       }
     ]
   },
-  "description": ""
+  "description": "A collection of generators of random items for WFRP4, based on Liber Fanatica series"
 }

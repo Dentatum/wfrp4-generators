@@ -11,6 +11,6 @@ You can install this module manually in Foundry VTT by using the manifest link.
 1. Open your Foundry VTT application and navigate to the **Add-on Modules** tab.
 2. Click the **Install Module** button at the bottom left.
 3. Paste the following link into the **Manifest URL** field at the bottom of the window:
-   `https://github.com/Dentatum/wfrp4-generators/module.json`
+   `https://raw.githubusercontent.com/Dentatum/wfrp4-generators/refs/heads/main/module.json`
 4. Click **Install**.
 5. Once inside your world, go to the **Manage Modules** settings and enable the module.
