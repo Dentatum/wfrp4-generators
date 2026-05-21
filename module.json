@@ -23,7 +23,7 @@
     {
       "name": "generators",
       "label": "Generators",
-	  "banner": "img/generators.webp",
+	  "banner": "./modules/wfrp4e-generators/img/generators.webp",
       "path": "packs/gens",
       "type": "Macro",
       "ownership": {
