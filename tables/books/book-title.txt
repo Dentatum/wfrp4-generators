@@ -1,4 +1,4 @@
-Biography;1;3;;Accomplishments;of Emperor <em>[Name]</em>
+Biography;1;3;;Accomplishments;of Emperor [Name]
 Biography;4;6;Admirable;Accounts;of Magnus the Pious
 Biography;7;9;Blood-dimmed;Achievements;of Sigmar Heldenhammer
 Biography;10;12;Celebrated;Ambition;of the Todbringers of Middenheim
@@ -11,32 +11,32 @@ Biography;28;30;Empirical;Conundums;of the von Krieglitz-Unterns of Talabheim
 Biography;31;33;Exposed;Deeds;of the von Krieglitz' of Talabecland
 Biography;34;36;Faithful;Deliberations;of the von Liebwitz' of Wissenland
 Biography;37;39;Final;Desires;of the Leitdörfers of Averland
-Biography;40;42;Finest;Digest;of <em>[Name]</em> the <em>[Career]</em>
-Biography;43;45;Gallant;Efforts;of <em>[Name]</em> the Artisan
-Biography;46;48;Gathered;Endeavour;of <em>[Name]</em> the Captain
-Biography;49;51;Gilded;Enquiry;of <em>[Name]</em> the Champion
-Biography;52;54;Glorious;Essays;of <em>[Name]</em> the Crime Lord
-Biography;55;57;Grandiose;Existence;of <em>[Name]</em> the Demagogue
-Biography;58;60;Great;Exploits;of <em>[Name]</em> the Duellist
-Biography;61;63;Heretical;Feats;of <em>[Name]</em> the Engineer
-Biography;64;66;Honest;Findings (on);of <em>[Name]</em> the Exorcist
-Biography;67;68;Ill-Fated;History;of <em>[Name]</em> the Explorer
-Biography;69;70;Illuminative;Labours;of <em>[Name]</em> the Friar
-Biography;71;72;Laudable;Life;of <em>[Name]</em> the Guild Master
-Biography;73;74;Misunderstood;Notes;of <em>[Name]</em> the Highwayman
-Biography;75;76;Noble;Opus;of <em>[Name]</em> the Knight
-Biography;77;78;Perfect;Prophecies;of <em>[Name]</em> the Merchant
-Biography;79;80;Proven;Records;of <em>[Name]</em> the Minstrel
-Biography;81;82;Revealed;Revelations;of <em>[Name]</em> the Noble
-Biography;83;84;Fine;Study;of <em>[Name]</em> the Outlaw Chief
-Biography;85;86;Splendid;Tales;of <em>[Name]</em> the Physician
-Biography;87;88;Tempting;Testimonies;of <em>[Name]</em> the Politician
-Biography;89;90;Traitorous;Transcripts;of <em>[Name]</em> the Priest
-Biography;91;92;Truthful;Treatise (on);of <em>[Name]</em> the Scholar
-Biography;93;94;Unambiguous;Triumphs;of <em>[Name]</em> the Sea Captain
-Biography;95;96;Uncovered;Visions;of <em>[Name]</em> the Veteran
-Biography;97;98;Unearthed;Vocation;of <em>[Name]</em> the Witch Hunter
-Biography;99;100;Zealous;Words;of <em>[Name]</em> the Wizard
+Biography;40;42;Finest;Digest;of [Name] the [Career]
+Biography;43;45;Gallant;Efforts;of [Name] the Artisan
+Biography;46;48;Gathered;Endeavour;of [Name] the Captain
+Biography;49;51;Gilded;Enquiry;of [Name] the Champion
+Biography;52;54;Glorious;Essays;of [Name] the Crime Lord
+Biography;55;57;Grandiose;Existence;of [Name] the Demagogue
+Biography;58;60;Great;Exploits;of [Name] the Duellist
+Biography;61;63;Heretical;Feats;of [Name] the Engineer
+Biography;64;66;Honest;Findings (on);of [Name] the Exorcist
+Biography;67;68;Ill-Fated;History;of [Name] the Explorer
+Biography;69;70;Illuminative;Labours;of [Name] the Friar
+Biography;71;72;Laudable;Life;of [Name] the Guild Master
+Biography;73;74;Misunderstood;Notes;of [Name] the Highwayman
+Biography;75;76;Noble;Opus;of [Name] the Knight
+Biography;77;78;Perfect;Prophecies;of [Name] the Merchant
+Biography;79;80;Proven;Records;of [Name] the Minstrel
+Biography;81;82;Revealed;Revelations;of [Name] the Noble
+Biography;83;84;Fine;Study;of [Name] the Outlaw Chief
+Biography;85;86;Splendid;Tales;of [Name] the Physician
+Biography;87;88;Tempting;Testimonies;of [Name] the Politician
+Biography;89;90;Traitorous;Transcripts;of [Name] the Priest
+Biography;91;92;Truthful;Treatise (on);of [Name] the Scholar
+Biography;93;94;Unambiguous;Triumphs;of [Name] the Sea Captain
+Biography;95;96;Uncovered;Visions;of [Name] the Veteran
+Biography;97;98;Unearthed;Vocation;of [Name] the Witch Hunter
+Biography;99;100;Zealous;Words;of [Name] the Wizard
 
 biocontent;1;7;For Which He Was Burnt;The content is slightly disapproving, and the author thinks subject should have done better.
 biocontent;8;14;Second Printing;The content is biased, lauding, and flattering. Maybe is a commissioned work...?
@@ -220,8 +220,8 @@ Fiction;73;76;Wondrous;Tale
 Fiction;77;80;Year of (the);Tear
 Fiction;81;84;The;Time
 Fiction;85;89;Four;Water
-Fiction;90;95;<em>[Name]</em>’s;Wind
-Fiction;96;100;<em>[Career]</em>’s;Winter
+Fiction;90;95;[Name]’s;Wind
+Fiction;96;100;[Career]’s;Winter
 
 ficontent;1;4;The book is an antology of sleazy "love stories" (borderline pornographic).
 ficontent;5;8;The book contains instructive moral stories for young lovers.
@@ -259,17 +259,17 @@ Religious Doctrine;15;16;Collected;Decrees;of;the Augurs of the Black Rose
 Religious Doctrine;17;18;Comprehensive;Deliberations;of;the Fellowship of the Shroud
 Religious Doctrine;19;20;Conclusive;Demands;of;the Augurs of Morr
 Religious Doctrine;21;22;Consecrated;Demonstrations;of;Myrmydia
-Religious Doctrine;23;24;Constant;Dicta;of;<em>[Name]</em>, a Renowned Martyr of the Faith
+Religious Doctrine;23;24;Constant;Dicta;of;[Name], a Renowned Martyr of the Faith
 Religious Doctrine;25;26;Essential;Direction;of;the Order of the Righteous Spear
 Religious Doctrine;27;28;Established;Directives;of;the Holy Synods and their Decrees
 Religious Doctrine;29;30;Extreme;Discourses;of;the Priests of Myrmidia
-Religious Doctrine;31;32;Faithful;Elements;of;<em>[Name]</em>, Veteran Chaplain of the Armies
+Religious Doctrine;31;32;Faithful;Elements;of;[Name], Veteran Chaplain of the Armies
 Religious Doctrine;33;34;Fervent;Errors;of;Ranald
 Religious Doctrine;35;36;Gathered;Exigencies;of;the Afterlife and the Final Judgment
 Religious Doctrine;37;38;Golden;Expositions;of;the priests of Marienburg
 Religious Doctrine;39;40;Hallowed;Fundamentals;of;Rhya and Taal
 Religious Doctrine;41;42;Holy;Fundaments;of;the Rural Shrines and their Keepers
-Religious Doctrine;43;44;Humble;Imperatives;of;<em>[Name]</em>, a Defrocked Priest Turned Charlatan
+Religious Doctrine;43;44;Humble;Imperatives;of;[Name], a Defrocked Priest Turned Charlatan
 Religious Doctrine;45;46;Orthodox;Inconsistencies;of;the Hierarchs of Taal
 Religious Doctrine;47;48;Pious;Instructions;of;the Defenders of the Holy Relics
 Religious Doctrine;49;50;Potent;Lectures;of;the Order of the Bleeding Heart
@@ -283,7 +283,7 @@ Religious Doctrine;63;64;Rigorous;Procedures;of;the Hermits of the Mountain Peak
 Religious Doctrine;65;66;Sacred;Proof;of;the Grand Theogonists
 Religious Doctrine;67;68;Sacrosanct;Prophecies;of;the Wandering Prophets of the Roads
 Religious Doctrine;69;70;Sanctified;Questions;of;the Pilgrims
-Religious Doctrine;71;72;Sanctimonious;Requests;of;<em>[Name]</em>, lector of Sigmar
+Religious Doctrine;71;72;Sanctimonious;Requests;of;[Name], lector of Sigmar
 Religious Doctrine;73;74;Scruplous;Requirements;of;Ulric
 Religious Doctrine;75;76;Stringent;Revelations;of;the Order of the Howling Wolf
 Religious Doctrine;77;78;Summative;Rudiments;of;the Knights of the White Wolf
@@ -299,6 +299,105 @@ Religious Doctrine;95;96;Virtuous;Truths;of;the Dwarven gods and religion
 Religious Doctrine;97;98;Zealous;Visions;of;the Halfling gods and religion
 Religious Doctrine;99;100;Heretical;Confessions;of;the Divine Patrons of Commerce and Coin
 
-Scholarship
+Scholarship;1;2;;Colloquia;on;the Culture and History of
+Scholarship;3;4;Accumulated;Accounts;of;the Culture and History of
+Scholarship;5;6;Admirable;Arguments;on;the Culture and History of
+Scholarship;7;8;Assembled;Conceptions;on;the Culture and History of
+Scholarship;9;10;Auspicious;Considerations;on;the Culture and History of
+Scholarship;11;12;Celebrated;Demonstrations;of;the Culture and History of
+Scholarship;13;14;Collected;Discourse;on;the Culture and History of
+Scholarship;15;16;Compiled;Dissertation;on;the Culture and History of
+Scholarship;17;18;Complete;Elucidation;of;Lexicons and World Tongues
+Scholarship;19;20;Comprehensive;Enquiries;on;Lexicons and World Tongues
+Scholarship;21;22;Compulsory;Erudition;on;the Religions of the Empire
+Scholarship;23;24;Elemental;Essays;on;Raising Children and Breeding Animals
+Scholarship;25;26;Empirical;Examinations;of;the Imperial Electoral System
+Scholarship;27;28;Essential;Exposé;of;Herbs and Their qualities
+Scholarship;29;30;Esteemed;Expositions;of;Uncharted Territories of the East
+Scholarship;31;32;Experiential;Findings;on;Mining Engineering
+Scholarship;33;34;Exposed;Foresights;of;the Celestial Alignments and Foul Omens
+Scholarship;35;36;Faithful;Hypothesis;on;the Reinforcement of Stone Bridge Arches
+Scholarship;37;38;Final;Insights;into;the Deployment of Halberd Formations
+Scholarship;39;40;Finest;Knowledge;of;Pitching and Sealing River Barges
+Scholarship;41;42;First;Labours;on;the Extraction of Putrid Internal Organs
+Scholarship;43;44;Fundamental;Laws;of;the Manufacture of Candles
+Scholarship;45;46;Gallant;Learning;on;Baiting River Delicacies
+Scholarship;47;48;Gathered;Lectures;on;Avoiding Scandal at Noble Banquets
+Scholarship;49;50;Gilded;Lessons;on;Illumination of Sacred Vellum Texts
+Scholarship;51;52;Glorious;Notes;on;the Study of Human Anatomy
+Scholarship;53;54;Golden;Observations;on;Hewing of Granite Quarry Blocks
+Scholarship;55;56;Grandiose;Papers;on;Scraping and Curing Beast Hides
+Scholarship;57;58;Great;Perceptions;of;Smelting and Purifying Corrupted Gold
+Scholarship;59;60;Honest;Perspectives;on;Bending Iron Draft Horseshoes
+Scholarship;61;62;Illuminative;Procedures;on;the Preparation of Apothecary Concoctions
+Scholarship;63;64;Indispensable;Properties;of;the Principles of Civil Architecture
+Scholarship;65;66;Laudable;Proposals;on;Depicting the Horrors of War
+Scholarship;67;68;Noble;Records;of;Fermentation of Dark Bitter Ales
+Scholarship;69;70;Obligatory;Research;on;Joinery for Heavy Oak Furniture
+Scholarship;71;72;Perfect;Revelations;on;the Steps of Courtly Dancing
+Scholarship;73;74;Primary;Rudiments;of;the Etiquette of the Bourgeoisie
+Scholarship;75;76;Principal;Scholarship;on;the Cultivation of Land
+Scholarship;77;78;Required;Studies;on;Foreign Diplomacy and Trade
+Scholarship;79;80;Respected;Suggestions;on;Painting Correct Coat of Arms
+Scholarship;81;82;Revealed;Teachings;on;the Superstitions of the Peasantry
+Scholarship;83;84;Revered;Testimonies;of;Proper Historical Methodologies
+Scholarship;85;86;Rudimentary;Theorems;on;the Art of Noble Fencing
+Scholarship;87;88;Splendid;Theories;on;the Enforcement of Sumptuary Laws
+Scholarship;89;90;Tempting;Thesis;on;the Theories of Musical Composition
+Scholarship;91;92;Truthful;Treatise;on;Panning for Elusive River Gold
+Scholarship;93;94;Unambiguous;Understanding;of;the Principles of Market Economics
+Scholarship;95;96;Uncovered;Wisdom;of;the Academic Study of Climates
+Scholarship;97;98;Unearthed;Visions;of;the Art of Textile Manufacture
+Scholarship;99;100;Valuable;Writings;on;the Protocols of the Nobility
 
-Forbidden, Exotic or Heretical Topic
+Forbidden, Exotic or Heretical Topic;1;4;The;Aethyr;of;Aethereal Energies
+Forbidden, Exotic or Heretical Topic;5;8;Absolute;Bane;of;Whispers from Beyond the Veil
+Forbidden, Exotic or Heretical Topic;9;12;Auspicious;Chronicles;of;Unseen Forces
+Forbidden, Exotic or Heretical Topic;13;16;Baneful;Confessions;of;Formless Entities
+Forbidden, Exotic or Heretical Topic;17;20;Black;Dawn;of;the Invisible Currents
+Forbidden, Exotic or Heretical Topic;21;24;Crimson;Fang;of;Mortal Souls
+Forbidden, Exotic or Heretical Topic;25;28;Dark;Heart;of;the Void
+Forbidden, Exotic or Heretical Topic;29;32;Essential;Horn;of;Cosmic Threads
+Forbidden, Exotic or Heretical Topic;33;36;Final;Light;of;the True Names
+Forbidden, Exotic or Heretical Topic;37;40;Gilded;Maelstrom;of;Magical Harmonies
+Forbidden, Exotic or Heretical Topic;41;44;Golden;Moon;of;Ethereal Mists
+Forbidden, Exotic or Heretical Topic;45;48;Grey;Mysteries;of;the Hidden Flames
+Forbidden, Exotic or Heretical Topic;49;52;Luminous;Omens;of;Base Matter
+Forbidden, Exotic or Heretical Topic;53;56;Magical;Passions;of;Distant Futures
+Forbidden, Exotic or Heretical Topic;57;60;My Liege's;Principles;of;Arcane Webs
+Forbidden, Exotic or Heretical Topic;61;64;My Lord's;Shadow;of;Wild Energies
+Forbidden, Exotic or Heretical Topic;65;68;Ominous;Souls;of;the Mind's Potential
+Forbidden, Exotic or Heretical Topic;69;72;Portentous;Sun;of;Celestial Motions
+Forbidden, Exotic or Heretical Topic;73;76;Primal;Supremacy;of;Unwanted Spirits
+Forbidden, Exotic or Heretical Topic;77;80;Purple;Tide;of;Unseen Truths
+Forbidden, Exotic or Heretical Topic;81;84;Red;Time;of;Physical States
+Forbidden, Exotic or Heretical Topic;85;88;Shining;Ultimatum;of;Malign Influences
+Forbidden, Exotic or Heretical Topic;89;92;Ultimate;Wake;of;Life Essence
+Forbidden, Exotic or Heretical Topic;93;96;White;Wind;of;the Unseen
+Forbidden, Exotic or Heretical Topic;97;100;Yellow;Words;of;Forgotten Runes
+
+forcontent;1;4;This book contains detailed information regarding Daemonology.
+forcontent;5;8;This tome contains forbidden knowledge about Necromancy.
+forcontent;9;12;This manuscript contains heretical information concerning the Ruinous Powers.
+forcontent;13;16;This text contains dark secrets and information about Tzeentch, The Changer of the Ways.
+forcontent;17;20;This foul book contains corrupted lore concerning Nurgle, Lord of All Fevers and Plague.
+forcontent;21;24;This violent tome contains bloody dogmas regarding Khorne, The Angry Blood God.
+forcontent;25;28;This profane text contains forbidden information about Slaneesh, Lord of Pleasures.
+forcontent;29;32;This hidden manuscript contains obscure information regarding the Horned Rat.
+forcontent;33;36;This grim book contains dangerous knowledge about Khaine, Elven God of Murder.
+forcontent;37;40;This rare text contains heretical details concerning Malal, renegade Chaos entity.
+forcontent;41;44;This waterlogged book contains secret lore about Stromfels.
+forcontent;45;48;This academic tome contains a comprehensive Study of the fundamentals of Arcane Magic.
+forcontent;49;52;This theological book contains a detailed Study of the basic conceptions of Divine Blessings.
+forcontent;53;56;This book contains information about Hedgecraft and Witchcraft.
+forcontent;57;60;This practical grimoire contains useful information regarding Lesser Magic, and it contains 
+forcontent;61;64;This raw, hide-bound grimoire contains primal secrets about the Lore of Beasts, holding 
+forcontent;65;68;This solemn grimoire contains chilling information regarding the Lore of Death, recording 
+forcontent;69;72;This singed grimoire contains volatile knowledge about the Lore of Fire, detailing 
+forcontent;73;76;This astrological grimoire contains complex details concerning the Lore of the Heavens, offering 
+forcontent;77;80;This naturalistic grimoire contains deep insights into the Lore of Life, featuring 
+forcontent;81;84;This illuminated grimoire contains pure teachings about the Lore of Light, providing 
+forcontent;85;88;This heavy grimoire contains alchemical formulas and information regarding the Lore of Metal, containing 
+forcontent;89;92;This elusive grimoire contains cryptic information about the Lore of Shadow, hiding 
+forcontent;93;96;This maddening grimoire contains blasphemous secrets concerning the Lore of Chaos, revealing 
+forcontent;97;100;This decaying grimoire contains vile instructions regarding the Lore of Necromancy, keeping

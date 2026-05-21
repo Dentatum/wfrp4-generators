@@ -1,8 +1,8 @@
-genre;1;25;Biography;2
+genre;1;25;Biography;3
 genre;26;30;Bestiary;5
-genre;31;50;Cook Book;1
+genre;31;50;Cook Book;0.5
 genre;51;60;Fiction;1
-genre;61;70;Guidebook or Travel Account;4
+genre;61;70;Guidebook or Travel Account;3
 genre;71;90;Religious Doctrine;1
 genre;81;98;Scholarship;3
 genre;99;100;Forbidden, Exotic or Heretical Topic;8
@@ -108,5 +108,5 @@ language;6;6;Norse;0
 language;7;7;Classical;50
 language;8;8;Khazalid (Dwarfish));100
 language;9;9;Eltharin (Elvish);100
-language;10;10;Other;200
+language;10;10;some unknown language;200
 language;11;100;Reikspiel;0
