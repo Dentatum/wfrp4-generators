@@ -1,0 +1,3 @@
+This module is a collection of macros designed to generate random elements for WFRP4e, such as settlements, books, inns...
+
+It is based on **Liber Fanatica**, a series of fanmade rules created for 2ed. I tried to extract some of the useful chapters and adapt them to the last edition.
