@@ -3,7 +3,7 @@
   "title": "WFRP4e - Generators",
   "version": "1.0.0",
   "compatibility": {
-    "minimum": "13",
+    "minimum": "13.351",
     "verified": "14"
   },
   "authors": [
