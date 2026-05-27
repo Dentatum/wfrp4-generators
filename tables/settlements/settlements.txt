@@ -1,0 +1,151 @@
+name;1;1;All;acker
+name;2;2;Als;au
+name;3;3;Alt;bach
+name;4;4;Ammer;baum
+name;5;5;Arn;berg
+name;6;6;Aschen;brücke
+name;7;7;Ascher;brunn
+name;8;8;Bens;brunnen
+name;9;9;Birn;buche
+name;10;10;Blanken;burg
+name;11;11;Blau;bühl
+name;12;12;Blut;chen
+name;13;13;Borken;dorf
+name;14;14;Braun;eck
+name;15;15;Büche;eiche
+name;16;16;Bögen;feld
+name;17;17;Diep;fels
+name;18;18;Dunkel;felsen
+name;19;19;Eis;fluss
+name;20;20;Ell;forst
+name;21;21;Eschen;fort
+name;22;22;Fried;furt
+name;23;23;Fürsten;galgen
+name;24;24;Geis;garten
+name;25;25;Gelb;grab
+name;26;26;Giessen;graben
+name;27;27;Grau;grotte
+name;28;28;Grab;grube
+name;29;29;Gros;hafen
+name;30;30;Grün;hain
+name;31;31;Gräten;hang
+name;32;32;Gruft;haus
+name;33;33;Günz;hausen
+name;34;34;Hagel;heide
+name;35;35;Hall;heim
+name;36;36;Hart;hof
+name;37;37;Hauzen;holz
+name;38;38;Hech;horst
+name;39;39;Herbst;hut
+name;40;40;Herz;hügel
+name;41;41;Hohen;hütte
+name;42;42;Holz;höhle
+name;43;43;Ilmen;ingen
+name;44;44;Kall;keller
+name;45;45;Klage;kiefer
+name;46;46;Klein;kirchen
+name;47;47;Lauffen;klamm
+name;48;48;Lauter;kloster
+name;49;49;Lipp;kreuz
+name;50;50;Main;krug
+name;51;51;Marien;leben
+name;52;52;Merse;markt
+name;53;53;Mess;moor
+name;54;54;Moos;mühle
+name;55;55;Naum;münde
+name;56;56;Nenn;nau
+name;57;57;Nieder;pass
+name;58;58;Nord;pfad
+name;59;59;Ober;pforte
+name;60;60;Ost;quelle
+name;61;61;Oster;ruh
+name;62;62;Otters;rücken
+name;63;63;Pfaffen;schaft
+name;64;64;Pfarr;schanze
+name;65;65;Pfeffen;schlucht
+name;66;66;Rain;schloss
+name;67;67;Riesen;schweig
+name;68;68;Saal;see
+name;69;69;Salz;spitze
+name;70;70;Schaf;stadt
+name;71;71;Schroben;stedt
+name;72;72;Schwab;steg
+name;73;73;Schwan;stein
+name;74;74;Schwarz;stufe
+name;75;75;Schöne;stätte
+name;76;76;Semmen;sumpf
+name;77;77;Sim;tal
+name;78;78;Sommer;tanne
+name;79;79;Sonder;teich
+name;80;80;Speeger;tor
+name;81;81;Starn;treppe
+name;82;82;Stein;turm
+name;83;83;Süd;tür
+name;84;84;Tauber;wacht
+name;85;85;Taufel;wald
+name;86;86;Thurin;waldau
+name;87;87;Tier;wall
+name;88;88;Tränen;wasser
+name;89;89;Trost;wasserfall
+name;90;90;Upfen;weg
+name;91;91;Wall;wehr
+name;92;92;Waren;weide
+name;93;93;Vater;wiese
+name;94;94;Vecker;zwing
+name;95;95;Wein;Alte + re-roll
+name;96;96;Weiss;Bad + re-roll
+name;97;97;West;Grosse + re-roll
+name;98;98;Winter;Heilige + re-roll
+name;99;99;[Female Name];Neue + re-roll
+name;100;100;[Male Name];2nd roll + an der + 1st roll
+
+features;1;2;Large library
+features;3;4;Centre of learning (school, temple)
+features;5;6;Crumbling ramparts or palisade
+features;7;8;Eerie ruin on the edge of the settlement
+features;9;10;Famous for a yearly feast or festival;Commerce
+features;11;12;Famous/notorious coaching inn(s)
+features;13;14;Government (provincial court, office etc);Government
+features;15;16;Home of a famous artist, actor, or author
+features;17;18;Imposing bridge or other construction
+features;19;20;Impressive shrine, statue or memorial
+features;21;22;Impressive temple to major deity
+features;23;24;Inhabitants are ostracized by outsiders
+features;25;26;Known as a lawless place
+features;27;28;Large Dwarven community
+features;29;30;Location makes settlement a natural fort
+features;31;32;Lush park, gardens or commons
+features;33;34;Major Road/River Warden station;Commerce
+features;35;36;Mentioned in famous song, saga or poem
+features;37;38;Mighty watch tower or beacon
+features;39;40;Military strongpoint
+features;41;42;Notorious for its corrupt officials
+features;43;44;On the decline (economically, politically)
+features;45;46;Part of the settlement is in ruins
+features;47;48;Recently under attack (by Greenskins etc)
+features;49;50;Rumoured to be a site of unnatural events
+features;51;52;Settlement has recently been prospering
+features;53;54;Settlement is geographically isolated
+features;55;56;Settlement of historical importance
+features;57;58;Significant center of trade;Commerce
+features;59;60;Significant fortification;Armaments
+features;61;62;Site of major prison or labour camp
+features;63;64;Site of recent unrest (riots, insurrections)
+features;65;66;Sizable Halfling community
+features;67;68;Tradesmen are regarded as greedy
+features;69;70;Produces gems;Luxuries (Jewelry)
+features;71;72;Produces sheep (meat, cheese and fur);Wool
+features;73;74;Produces mining (metal or mineral);Metal
+features;75;76;Produces preserves (conserved foods);Grain
+features;77;78;Produces foodstuffs (pies, bread, pickles, etc);Grain
+features;79;80;Produces goats (meat, cheese and furs);Wool
+features;81;82;Produces wine (type depends on soil & tradition);Wine/Brandy
+features;83;84;Produces books (printing and/or illumination);Luxuries (Books)
+features;85;86;Produces brewing (beers, ales or ciders);Wine/Brandy
+features;87;88;Produces arms (weapon-, armour or gunsmiths);Armaments
+features;89;90;Strong presence of illicit services;Luxuries (Smuggling)
+features;91;92;Horse breeding;Luxuries (Horses)
+features;93;94;Important agricultural producer;Grain
+features;95;96;Large producer of charcoal;Timber
+features;97;98;Glass or pottery crafters;Luxuries (Glass/Pottery)
+features;99;100;Logging, timber and sawing;Timber
