@@ -1,0 +1,118 @@
+name;01;01;Black;Anchor
+name;02;02;Blessed;Anchorage
+name;03;03;Blind;Anvil
+name;04;04;Blue;Arms
+name;05;05;Brass;Banner
+name;06;06;Broken;Barge
+name;07;07;Brown;Barrel
+name;08;08;Bustling;Bears
+name;09;09;Cheerful;Beds
+name;10;10;Cheery;Bell
+name;11;11;Copper;Boar
+name;12;12;Cosy;Bowl
+name;13;13;Crescent;Brew
+name;14;14;Crooked;Bucket
+name;15;15;Dark;Cabin
+name;16;16;Drunken;Cart
+name;17;17;Dry;Castle
+name;18;18;Dun;Cauldron
+name;19;19;Earnest;Chalice
+name;20;20;Eastern;Club
+name;21;21;Exile[’s];Coin
+name;22;22;Farmer[’s];Colt
+name;23;23;Fierce;Corner
+name;24;24;Five;Cove
+name;25;25;Four;Crown
+name;26;26;Friendly;Cup
+name;27;27;Frosty;Den
+name;28;28;Gilded;Dog
+name;29;29;Glad;Dragon
+name;30;30;Golden;Dwelling
+name;31;31;Good;Eagle
+name;32;32;Grand;End
+name;33;33;Green;Feast
+name;34;34;Grey;Feather
+name;35;35;Half-way;Fire
+name;36;36;Happy;Fish
+name;37;37;Harvester[’s];Flask
+name;38;38;Hearty;Garden
+name;39;39;Holy;Gate
+name;40;40;Hunter[’s];Goblet
+name;41;41;Iron;Griffin
+name;42;42;Jolly;Harbour
+name;43;43;Leaning;Haven
+name;44;44;Lost;Head
+name;45;45;Loyal;Hearth
+name;46;46;Merchant[’s];Heaven
+name;47;47;Merry;Homestead
+name;48;48;Northern;Hoof
+name;49;49;Old;Hope
+name;50;50;Painted;Horse
+name;51;51;Pale;Hound
+name;52;52;Pilgrim[’s];House
+name;53;53;Pirate[’s];Inn
+name;54;54;Prancing;Lantern
+name;55;55;Reaver[’s];Lodge
+name;56;56;Red;Mansion
+name;57;57;Roamer[’s];Mare
+name;58;58;Roaring;Market
+name;59;59;Rover[’s];Moon
+name;60;60;Royal;Mount
+name;61;61;Ruined;Mouse
+name;62;62;Rusting;Nook
+name;63;63;Safe;Oak
+name;64;64;Sailor[’s];Owl
+name;65;65;Seven;Palace
+name;66;66;Shattered;Pig
+name;67;67;Shining;Pines
+name;68;68;Silver;Pint
+name;69;69;Sleepy;Place
+name;70;70;Southern;Pony
+name;71;71;Sovereign;Quarter
+name;72;72;Thirsty;Rat
+name;73;73;Three;Refuge
+name;74;74;Thriving;Rest
+name;75;75;Tilted;Resthouse
+name;76;76;Traveller[’s];Retreat
+name;77;77;Twilight;Return
+name;78;78;Twin;Rooms
+name;79;79;Two;Rose
+name;80;80;Voyager[’s];Shelter
+name;81;81;Wanderer[’s];Shield
+name;82;82;Warm;Sign
+name;83;83;Weary;Snug
+name;84;84;Welcoming;Spring
+name;85;85;Western;Stag
+name;86;86;White;Stallion
+name;87;87;Wrecker[’s];Stars
+name;88;88;Yellow;Steed
+name;89;89;[Nation];Stop
+name;90;90;[Province];Sun
+name;91;91;[Foreign name];Sword
+name;92;92;[Ruler name];Table
+name;93;93;[Local first name];Tankard
+name;94;94;[Local surname];Tower
+name;95;95;[Settlement name];Unicorn
+name;96;96;[River name];Well
+name;97;97;;Wheel
+name;98;98;;Wolf
+name;99;99;Roll two ‘second’ results;
+name;00;00;Roll two ‘second’ results;
+
+ammenities;Brothel;80;50;50;20;100
+ammenities;Club;0;50;100;80;20
+ammenities;Coaching inn;80;20;50;100;20
+ammenities;Hostel;80;20;50;100;20
+ammenities;Tavern;20;50;50;20;20
+
+price;Ale, pint;0,2,0
+price;Beer, barrel;0,0,9
+price;Beer, pint;0,3,0
+price;Food, day;0,1,0
+price;Stabling, night;0,10,0
+price;Room, single;0,10,0
+price;Room, double;1,0,0
+price;Room, large;1,10,0
+price;Dorm, bed;0,0,10
+price;Wine, shot;0,1,0
+price;Wine, bottle;0,0,10
