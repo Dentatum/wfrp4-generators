@@ -116,3 +116,24 @@ price;Room, large;1,10,0
 price;Dorm, bed;0,0,10
 price;Wine, shot;0,1,0
 price;Wine, bottle;0,0,10
+
+features;1;5;Cheap;breakfast
+features;6;10;Overrated;supper
+features;11;15;Expensive;ales/beers/ciders
+features;16;20;Affordable;wines
+features;21;25;Huge;common room
+features;26;30;Small;private rooms
+features;31;35;Lousy;baths
+features;36;40;Peculiar;gambling
+features;41;45;Shady;stabling
+features;46;50;Good;people of ill repute
+features;51;55;Foreign;innkeeper
+features;56;60;Old-fashioned;waitresses
+features;61;65;Excellent;bouncer
+features;66;70;Luxurious;baths
+features;71;75;Patriotic;cutlery and china
+features;76;80;Local style;privy
+features;81;85;Impressive;sign above entrance
+features;86;90;Dwarven-influenced;entrance
+features;91;95;Halfling-style;furnishing
+features;96;100;Elven-influenced;atmosphere
