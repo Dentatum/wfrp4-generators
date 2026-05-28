@@ -2,8 +2,6 @@
 
 This module provides a collection of macros designed to generate randomized elements for **Warhammer Fantasy Roleplay 4th Edition (WFRP4e)**—including settlements, books, inns, and more.
 
-These generators have been extracted from *Liber Fanatica*, a series of fan-made supplements created for WFRP2. This module extracts some of its roll tables and adapts and automates them for the latest edition. Instead of being lost in pages and documents, all generators are included and formatted for friendly use.
-
 ## Installation
 
 You can install this module manually in Foundry VTT by using the manifest link.
@@ -19,8 +17,4 @@ You can install this module manually in Foundry VTT by using the manifest link.
 
 The module will load a compendium called *Generators*. All you have to do is opening it, clicking on any of the macros it contains and click on *Execute Macro*. You can also drag and drop the macro into the hotbar and use it from there.
 
-A message will pop up in chat, as a whisper to the GM, with random information about whatever the macro is about (a book, an inn, a settlement...). In some cases, an item will also be created in the items menu, inside a new folder called *Generator - XXX* with the information the chat message contains.
-
-### Current state
-
-At this point only random book generator is implemented. Soon more generators for inns and settlements will be added.
+A message will pop up in chat, as a whisper to the GM, with random information about whatever the macro is about (a book, an inn, a settlement...). In some cases, an item will also be created in the items menu, inside a new folder called *WFRP4 Generators* with the information the chat message contains.
