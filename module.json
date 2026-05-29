@@ -9,10 +9,12 @@
   "authors": [
     {
       "name": "Dentatum",
-      "url": "https://ko-fi.com/dentatum",
       "discord": ".dentatum",
       "flags": {}
     }
+  ],
+  "esmodules": [
+    "scripts/init.js"
   ],
   "flags": {
     "canUpload": true
@@ -41,7 +43,7 @@
       }
     ]
   },
-  "description": "<p>A collection of generators of random items for WFRP4.</p>",
+  "description": "<p>A collection of generators and some utilities for WFRP4.</p>",
   "manifest": "https://raw.githubusercontent.com/Dentatum/wfrp4-generators/refs/heads/main/module.json",
   "url": "https://github.com/Dentatum/wfrp4-generators",
   "download": "https://github.com/Dentatum/wfrp4-generators/archive/refs/heads/main.zip"

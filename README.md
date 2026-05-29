@@ -1,8 +1,8 @@
 # WFRP4e Random Generators
 
-This module provides a collection of macros designed to generate randomized elements for **Warhammer Fantasy Roleplay 4th Edition (WFRP4e)**—including settlements, books, inns, and more.
+This module provides a collection of macros designed to generate randomized elements for **Warhammer Fantasy Roleplay 4th Edition (WFRP4e)**. It incudes settlements, books, inns, and more. It has also some utilities that could help making your games more immersive, like a Morrslieb phase generator.
 
-## Installation
+## Manual installation
 
 You can install this module manually in Foundry VTT by using the manifest link.
 
@@ -17,4 +17,4 @@ You can install this module manually in Foundry VTT by using the manifest link.
 
 The module will load a compendium called *Generators*. All you have to do is opening it, clicking on any of the macros it contains and click on *Execute Macro*. You can also drag and drop the macro into the hotbar and use it from there.
 
-A message will pop up in chat, as a whisper to the GM, with random information about whatever the macro is about (a book, an inn, a settlement...). In some cases, an item will also be created in the items menu, inside a new folder called *WFRP4 Generators* with the information the chat message contains.
+Generally, a message will pop up in chat, as a whisper to the GM, with random information about whatever the macro is about (a book, an inn, a settlement...). In some cases, an item will also be created in the items menu, inside a new folder called *WFRP4 Generators* with the information the chat message contains.

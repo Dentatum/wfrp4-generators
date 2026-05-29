@@ -1,0 +1,111 @@
+type;1;1;disgusting;disgusting;disgusting;junk;junk;item
+type;2;2;disgusting;disgusting;junk;junk;junk;item
+type;3;3;disgusting;junk;junk;junk;item;item
+type;4;4;junk;junk;junk;junk;item;valuable
+type;5;5;junk;junk;junk;item;item;valuable
+type;6;6;junk;junk;item;item;item;valuable
+type;7;7;junk;item;item;item;valuable;magic
+type;8;8;item;item;item;item;valuable;magic
+type;9;9;item;item;item;valuable;valuable;magic
+type;10;10;item;item;valuable;valuable;magic;magic
+
+disjunk;1;1;A vial of black, foul-smelling sweat;A wooden comb missing half its teeth
+disjunk;2;2;A dried goblin ear on a string;A bent copper coin from Marienburg
+disjunk;3;3;Maggot-infested beef jerky;A faded portrait of an incredibly ugly child
+disjunk;4;4;A jar of pickled sheep eyeballs;A blunt bone-carving knife
+disjunk;5;5;A necklace of rotten human molars;An empty snuff box made of cheap tin
+disjunk;6;6;A half-eaten raw street pigeon;A cheap, tarnished brass ring
+disjunk;7;7;Bloody rags smelling strongly of sulfur;A worn leather belt with a broken buckle
+disjunk;8;8;A small pouch of human dandruff;A heavy, rusted iron key
+disjunk;9;9;A severed, twitching rat's tail;A cracked wooden smoking pipe
+disjunk;10;10;A clump of matted, lice-ridden hair;A small vial of cheap, watered-down lavender perfume
+disjunk;11;11;A hollowed-out apple teeming with fat white maggots;A torn page from a Sigmarite hymnal
+disjunk;12;12;A sealed flask of cloudy, pungent urine;A handful of rusty, bent nails
+disjunk;13;13;Peeling scabs collected in a matchbox;A pair of mismatched, moth-eaten woolen socks
+disjunk;14;14;A patch of flayed skin with an unrecognizable tattoo;A broken pocket watch that doesn't tick
+disjunk;15;15;A crushed dung beetle smeared on a leaf;A dull brass button from a state troop uniform
+disjunk;16;16;A muddy, bloodstained boot filled with swamp water;A wooden toy horse missing a leg
+disjunk;17;17;A fistful of wet mud mixed with bone fragments;A small piece of drawing charcoal
+disjunk;18;18;A festering blister cleanly sliced off someone's heel;A faded coaching inn receipt for three ales
+disjunk;19;19;A burlap bag containing crushed cockroaches;A scratched monocle on a frayed string
+disjunk;20;20;A vial of thick, green mutant mucus;A frayed piece of hangman's rope
+disjunk;21;21;A dried, flattened toad;A rusted sewing thimble
+disjunk;22;22;A clay jar of coagulated, jelly-like blood;A small pouch of stale, cheap tobacco
+disjunk;23;23;A moldy piece of bread with human bite marks;A cracked hand mirror
+disjunk;24;24;A severed human thumb with a blackened nail;A wooden porridge spoon with deep teeth marks
+disjunk;25;25;A collection of extracted boils wrapped in a leaf;A small brass bell with no clapper
+disjunk;26;26;A bloody tooth with the gum root still attached;A piece of chalk carved to look like a skull
+disjunk;27;27;A sack of rotting, fly-blown fish heads;A torn and stained playing card (The Fool)
+disjunk;28;28;A handful of sticky spider webs containing drained flies;A broken crow-quill pen
+disjunk;29;29;A piece of unidentifiable, foul-smelling raw meat;A dried, pressed flower between two pieces of slate
+disjunk;30;30;A jar of rancid animal grease;A small, empty glass vial smelling of peppermint
+disjunk;31;31;A flattened, hairy giant spider;A brass knuckle-duster missing one spike
+disjunk;32;32;A rotting bird's nest containing crushed, bloody eggs;A worn wooden spinning top
+disjunk;33;33;A piece of cloth heavily soaked in sour vomit;A piece of string tied with seven specific knots
+disjunk;34;34;A small wooden box rattling with dried scorpions;A tarnished silver spoon with a bent handle
+disjunk;35;35;A poorly skinned sewer rat;A cracked clay drinking cup
+disjunk;36;36;A handful of sharp teeth from various unknown animals;A piece of parchment with illegible, frantic scribbles
+disjunk;37;37;A jar of leech-filled swamp water;A crude wooden holy symbol of Taal
+disjunk;38;38;A wedge of cheese entirely consumed by green mold;A rusted pair of hair scissors
+disjunk;39;39;A crusty, blood-soaked field bandage;A small linen bag of coarse salt
+disjunk;40;40;A dried, crusty animal tongue;A broken compass that always points East
+disjunk;41;41;A small corked vial filled with thick yellow pus;A splintered wooden peg leg
+disjunk;42;42;A small sack of pungent bat guano;A heavy, tarnished brass candlestick
+disjunk;43;43;A rotting rabbit's foot that smells of decay;A handful of cheap, colorful glass beads
+disjunk;44;44;A flayed patch of skin branded with a faint eight-pointed star;A torn map of the Reikland showing fake towns
+disjunk;45;45;A jar of pickled garden slugs;A small, beautifully carved wooden box that won't open
+disjunk;46;46;A rusty, blood-stained barber-surgeon's scalpel;A worn horseshoe with only three nail holes
+disjunk;47;47;A piece of rotting wood covered in glowing blue fungus;A broken iron padlock and no key
+disjunk;48;48;A handful of crushed, slimy snail shells;A chipped piece of flint
+disjunk;49;49;A severed, maggoty pig's snout;A faded, tragic love letter stained with tears
+disjunk;50;50;A jar of foul-smelling black sludge from the sewers;A cheap wooden holy symbol of Sigmar
+disjunk;51;51;A bloody piece of coarse, scratchy rope;A small pouch of dried, tasteless herbs
+disjunk;52;52;A canvas sack leaking rotting sheep entrails;A heavy, rusted iron railway spike
+disjunk;53;53;A dried, shriveled eye on a leather cord;A broken pair of spectacles taped together
+disjunk;54;54;A jar of pickled, unidentifiable tentacles;A small, out-of-tune wooden flute
+disjunk;55;55;A piece of moldy bread resembling a screaming face;A tarnished copper coin with a hole in the middle
+disjunk;56;56;A rusty meat cleaver crusted with dried gore;A small piece of weak lodestone
+disjunk;57;57;A handful of crushed, foul-smelling dung beetles;A broken wooden holy symbol of Ulric
+disjunk;58;58;A rotting pear completely hollowed out by ants;A torn piece of parchment with a recipe for boot-leather stew
+disjunk;59;59;A severed, mangy dog's paw;A small leather pouch filled with heavy river sand
+disjunk;60;60;A flask of mysterious, bubbling green liquid;A rusted iron fishing hook
+disjunk;61;61;A piece of bloody bone splintered at both ends;A broken piece of school slate
+disjunk;62;62;A sack of liquefied, rotting cabbages;A small wooden carving of an aggressive boar
+disjunk;63;63;A dried, flattened snake tied into a knot;A tarnished silver ring that turns the wearer's finger green
+disjunk;64;64;A cracked jar containing a pickled sheep's brain;A torn piece of cloth with a crude drawing of a comet
+disjunk;65;65;A handful of a sticky, foul-smelling unknown substance;A small piece of stained glass from a ruined temple
+disjunk;66;66;A butcher's apron stiff with weeks of dried blood;A cast-iron pot with a large hole in the bottom
+disjunk;67;67;A rotting piece of river fish crawling with lice;A small pouch of unremarkable turnip seeds
+disjunk;68;68;A severed black cat's tail;A rusted iron dinner fork with two bent prongs
+disjunk;69;69;A jar of foul-smelling, sulfurous yellow paste;A wooden holy symbol of Shallya
+disjunk;70;70;A piece of leather covered in a strange, spreading fungus;A small piece of blue chalk
+disjunk;71;71;A burlap sack clinking with uncleaned, marrow-sucked bones;A wooden bowl cracked down the middle
+disjunk;72;72;A dried, shriveled monkey's paw;A tarnished copper button from a nobleman's coat
+disjunk;73;73;A jar of pickled, staring fish eyes;A small, tangled ball of catgut string
+disjunk;74;74;A handful of crushed, pulsating corpse-maggots;A torn piece of parchment with an intricate drawing of a dead tree
+disjunk;75;75;A dirty rag soaked in fresh, unknown blood;A small pouch of extremely bitter dried berries
+disjunk;76;76;A rotting piece of mystery meat wrapped in leaves;A heavily rusted iron frying pan
+disjunk;77;77;A severed raven's head with a crushed beak;A wooden holy symbol of Morr
+disjunk;78;78;A jar of foul-smelling, thick brown liquid;A small, smooth piece of river coal
+disjunk;79;79;A piece of burial shroud smelling of the grave;A splintered wooden soup spoon
+disjunk;80;80;A soggy bundle of fermented, stinking garbage;A tarnished silver coin from a destroyed province
+disjunk;81;81;A dried, flattened sewer mouse;A small piece of sharpening stone
+disjunk;82;82;A jar of pickled, tiny bird hearts;A torn piece of parchment with a depressing poem about mud
+disjunk;83;83;A handful of sticky, foul-smelling pine sap;A small pouch of dried autumn leaves
+disjunk;84;84;A bloody chunk of wood with a rusty nail in it;A long, bent iron coffin nail
+disjunk;85;85;A rotting piece of cheese that seems to twitch;A wooden holy symbol of Ranald
+disjunk;86;86;A severed horse's ear swarming with flies;A small spool of rusty copper wire
+disjunk;87;87;A jar of foul-smelling, damp black powder;A broken green glass bottle neck
+disjunk;88;88;A piece of executioner's rope stained with sweat and blood;A tarnished copper ring with a missing stone
+disjunk;89;89;A sack of slimy, rotting autumnal leaves;A small, useless scrap of stiffened leather
+disjunk;90;90;A dried, shriveled Halfling foot;A torn piece of parchment showing the floorplan of a ruined barn
+disjunk;91;91;A jar of pickled cow tongues;A small pouch of slightly toxic dried mushrooms
+disjunk;92;92;A handful of crushed, slimy earthworms;A rusted iron bucket missing its handle
+disjunk;93;93;A piece of jagged, bloody shrapnel;A wooden holy symbol of Myrmidia
+disjunk;94;94;A rotting, squashed plum dripping with black juices;A small piece of high-quality silk used as a rag
+disjunk;95;95;A severed cow's tail encrusted with dried dung;A broken piece of a ceramic chamber pot
+disjunk;96;96;A jar of foul-smelling, milky white fluid;A tarnished silver locket with the picture scratched out
+disjunk;97;97;A swollen, waterlogged chunk of graveyard coffin wood;A small piece of measuring string
+disjunk;98;98;A sack of rotting, foul-smelling animal fat;A torn piece of parchment with a list of crossed-out names
+disjunk;99;99;A dried, flattened bog lizard;A small pouch of graveyard dirt
+disjunk;100;100;A glass jar containing a brine-soaked mutant's hand with six fingers;An oversized, rusted iron key that looks important
