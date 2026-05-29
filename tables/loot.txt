@@ -109,3 +109,183 @@ disjunk;97;97;A swollen, waterlogged chunk of graveyard coffin wood;A small piec
 disjunk;98;98;A sack of rotting, foul-smelling animal fat;A torn piece of parchment with a list of crossed-out names
 disjunk;99;99;A dried, flattened bog lizard;A small pouch of graveyard dirt
 disjunk;100;100;A glass jar containing a brine-soaked mutant's hand with six fingers;An oversized, rusted iron key that looks important
+
+item;1;1;@UUID[Compendium.wfrp4e-core.items.Item.4xV16ttsxCa311vl]
+item;2;2;@UUID[Compendium.wfrp4e-core.items.Item.7CJfiEV10299s7c1]
+item;3;3;Kettle / Teapot
+item;4;4;3 @UUID[Compendium.wfrp4e-core.items.Item.fHb7bFU8QX3oi33F] and @UUID[Compendium.wfrp4e-core.items.Item.6OmsMPtz0NzCwvzL]
+item;5;5;[[/r 1d10]] Lockpicks
+item;6;6;@UUID[Compendium.wfrp4e-core.items.Item.gxdjLQoQUTYgD6fm]
+item;7;7;2 @UUID[Compendium.wfrp4e-core.items.Item.hG90GkelSekqH7i8]
+item;8;8;2 @UUID[Compendium.wfrp4e-core.items.Item.horFAtaDz0EbuY3R]
+item;9;9;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.25ADcz6sayrk2264]
+item;10;10;@UUID[Compendium.wfrp4e-core.items.Item.9pJenZDZD2lV75vq] and @UUID[Compendium.wfrp4e-core.items.Item.Bal23aLiOmnht42h]
+item;11;11;Deck of cards
+item;12;12;@UUID[Compendium.wfrp4e-core.items.Item.U94l3IDj3xfIc78i] and 10 @UUID[Compendium.wfrp4e-core.items.Item.6GNNpWIGxO9CkTCR]
+item;13;13;Simple @UUID[Compendium.wfrp4e-core.items.Item.LrYz9nSsmH4H3He4]
+item;14;14;@UUID[Compendium.wfrp4e-core.items.Item.OjcHE0VOGr1aRdy9]
+item;15;15;@UUID[Compendium.wfrp4e-core.items.Item.EVERNFcYxY7WY8ur]
+item;16;16;@UUID[Compendium.wfrp4e-core.items.Item.k0KeWhPgFGUcOgs0]
+item;17;17;@UUID[Compendium.wfrp4e-core.items.Item.OD83JAlc9KhDpHK5]
+item;18;18;Nose ring
+item;19;19;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.Qi8gXIjgUSsNLf1Z]
+item;20;20;@UUID[Compendium.wfrp4e-core.items.Item.7Bpc5I8Arucy3w4q]
+item;21;21;@UUID[Compendium.wfrp4e-core.items.Item.XWlkZVUhzO0CwaiJ]
+item;22;22;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.2elmPYTaMSQ1J4JJ]
+item;23;23;[[/r 1d10]] @UUID[Compendium.wfrp4e-core.items.Item.YIUJ8FnHDm4OMRES]
+item;24;24;@UUID[Compendium.wfrp4e-core.items.Item.gx451Vn2Ru3eKLIg]
+item;25;25;@UUID[Compendium.wfrp4e-core.items.Item.6OmsMPtz0NzCwvzL]
+item;26;26;Poor quality item (roll again, the result has the Shoddy Flaw)
+item;27;27;Grimoire
+item;28;28;@UUID[Compendium.wfrp4e-core.items.Item.hhImniNwHKmcC6FK]
+item;29;29;@UUID[Compendium.wfrp4e-wom.items.Item.dOlPXXyhnm3XbLOv]
+item;30;30;@UUID[Compendium.wfrp4e-core.items.Item.oW7wSkl4JMb5sBH8]
+item;31;31;@UUID[Compendium.wfrp4e-core.items.Item.1zaqojk0Oq1m8vYv]
+item;32;32;@UUID[Compendium.wfrp4e-core.items.Item.q3dEaQLL3ZYCZtU4]
+item;33;33;Full leather armor (@UUID[Compendium.wfrp4e-core.items.Item.OjcHE0VOGr1aRdy9], @UUID[Compendium.wfrp4e-core.items.Item.0W0kEpa2kNEcRGK0] and @UUID[Compendium.wfrp4e-core.items.Item.MzppW5E5c3by9iBU])
+item;34;34;@UUID[Compendium.wfrp4e-core.items.Item.sgJL9NtVEZZvgkys]
+item;35;35;Metal cutlery
+item;36;36;@UUID[Compendium.wfrp4e-core.items.Item.H4nKliXRB93HKH4r]
+item;37;37;Pewter @UUID[Compendium.wfrp4e-core.items.Item.vbNHaU50jr9T2dCQ]
+item;38;38;@UUID[Compendium.wfrp4e-core.items.Item.VakWbquag1kV5WtT]
+item;39;39;@UUID[Compendium.wfrp4e-core.items.Item.zIf0i6DBqGlyQ5By]
+item;40;40;@UUID[Compendium.wfrp4e-core.items.Item.o6VOoj3KUlkfLCia] of luck
+item;41;41;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.0Qfj9Swv75b9bCUH]
+item;42;42;@UUID[Compendium.wfrp4e-core.items.Item.LKGrjbTZgEh3GUMF]
+item;43;43;@UUID[Compendium.wfrp4e-core.items.Item.MF43A52UBH8SHOnd]
+item;44;44;@UUID[Compendium.wfrp4e-core.items.Item.cJdfHOVbghTf4Eo0]
+item;45;45;@UUID[Compendium.wfrp4e-core.items.Item.e9WmLbD7AuXSeWp0]
+item;46;46;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.SQakHYxBYiPbHi3i]
+item;47;47;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.UlL4mHSgBW3nYh2a]
+item;48;48;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.DQtxITVRh2pd8hxp]
+item;49;49;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.HxOhYpAxqdcyoSje]
+item;50;50;Full mail armor (@UUID[Compendium.wfrp4e-core.items.Item.i76oPVM2eFEs5IBh], @UUID[Compendium.wfrp4e-core.items.Item.4xV16ttsxCa311vl] and @UUID[Compendium.wfrp4e-core.items.Item.XWlkZVUhzO0CwaiJ])
+item;51;51;@UUID[Compendium.wfrp4e-core.items.Item.1BgoTqp0i0z8cA28]
+item;52;52;@UUID[Compendium.wfrp4e-core.items.Item.Ldf5kDBob8H0v6iV]
+item;53;53;@UUID[Compendium.wfrp4e-core.items.Item.5fowsr8vslorjeB2]
+item;54;54;Holy water
+item;55;55;Metal @UUID[Compendium.wfrp4e-core.items.Item.Hrs3p9z8NqyYEtRz]
+item;56;56;@UUID[Compendium.wfrp4e-core.items.Item.mCvZAj5F6hfUZhzR]
+item;57;57;@UUID[Compendium.wfrp4e-core.items.Item.kJziKlct30lfAiYA]
+item;58;58;@UUID[Compendium.wfrp4e-core.items.Item.CB6cxxqy5vXcV6gf]
+item;59;59;@UUID[Compendium.wfrp4e-core.items.Item.oW7wSkl4JMb5sBH8]
+item;60;60;Fine quality item (roll again, the result has the Practical Quality)
+item;61;61;@UUID[Compendium.wfrp4e-core.items.Item.qim3Ad0ldTS9mXDj]
+item;62;62;@UUID[Compendium.wfrp4e-core.items.Item.xiOYNJcfqPselfwT]
+item;63;63;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.pu2OkOWm15zEqWzz]
+item;64;64;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.sVIALrzjX22wUef9]
+item;65;65;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.0qCZUJSuLyReber6]
+item;66;66;Two-handed weapon
+item;67;67;@UUID[Compendium.wfrp4e-core.items.Item.8nJ9R8tbhW42VGhr]
+item;68;68;@UUID[Compendium.wfrp4e-core.items.Item.ksRqHiMVpIL07Ij1]
+item;69;69;@UUID[Compendium.wfrp4e-core.items.Item.Xjwk84KnOKDaiZs1]
+item;70;70;Full plate armor (@UUID[Compendium.wfrp4e-core.items.Item.oBNXxRFPh1sOT4K2], @UUID[Compendium.wfrp4e-core.items.Item.TvUKzvXjc2VChuTT], @UUID[Compendium.wfrp4e-core.items.Item.oW7wSkl4JMb5sBH8] and @UUID[Compendium.wfrp4e-core.items.Item.bY6M9XxbqmFmqpA8])
+item;71;71;@UUID[Compendium.wfrp4e-core.items.Item.Ieyr3r0Skl57DkAJ]
+item;72;72;@UUID[Compendium.wfrp4e-core.items.Item.RHqux3m4dgJoDkqG]
+item;73;73;Storm lantern
+item;74;74;2 @UUID[Compendium.wfrp4e-core.items.Item.3GlaCQyLuugXHEM2]
+item;75;75;Silver cutlery
+item;76;76;@UUID[Compendium.wfrp4e-core.items.Item.Wp9qIwlQo6dpszOw]
+item;77;77;Quality lock
+item;78;78;@UUID[Compendium.wfrp4e-core.items.Item.WDawuBcvsglWEVMg]
+item;79;79;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.9chPZw59vJ4dKjaC]
+item;80;80;@UUID[Compendium.wfrp4e-core.items.Item.HozjxIwCSwkItBu5] and line
+item;81;81;@UUID[Compendium.wfrp4e-core.items.Item.qfd01sggD9xbCuJY]
+item;82;82;Religious relic
+item;83;83;Veteran's hand
+item;84;84;@UUID[Compendium.wfrp4e-core.items.Item.5TDwZGuGwX1QJWAg]
+item;85;85;Fine @UUID[Compendium.wfrp4e-core.items.Item.7CJfiEV10299s7c1]
+item;86;86;Artist's @UUID[Compendium.wfrp4e-core.items.Item.EDnMXoxQTU4TMrRV]
+item;87;87;Terrible quality item (roll again, the result has the Shoddy Flaw and is worth half)
+item;88;88;@UUID[Compendium.wfrp4e-core.items.Item.J9sVeK9nbQLFyUMU]
+item;89;89;@UUID[Compendium.wfrp4e-core.items.Item.RHkj94yUJp620xr1]
+item;90;90;@UUID[Compendium.wfrp4e-core.items.Item.K34pxV6XsxhoZRiQ]
+item;91;91;10 @UUID[Compendium.wfrp4e-up-in-arms.items.Item.Bjewc1ehUeeQTnXs]
+item;92;92;20 @UUID[Compendium.wfrp4e-core.items.Item.6GNNpWIGxO9CkTCR]
+item;93;93;20 @UUID[Compendium.wfrp4e-core.items.Item.kFROfGFdExfyJTg9]
+item;94;94;Best quality item (roll again, the result has the Practical Quality and is worth double)
+item;95;95;@UUID[Compendium.wfrp4e-up-in-arms.items.Item.jxTsO0vrf53pCxCb]
+item;96;96;@UUID[Compendium.wfrp4e-core.items.Item.k0JKY8ck2QUx5mKS]
+item;97;97;Chest
+item;98;98;5 @UUID[Compendium.wfrp4e-core.items.Item.fHb7bFU8QX3oi33F]
+item;99;99;[[/r 1d10/2]] base metal ingots
+item;100;100;Chimera blood (for @UUID[Compendium.wfrp4e-zoo.items.Item.ImIQCHVblxjytbEC])
+
+valuable;1;1;Jeweled brooch
+valuable;2;2;A highly valuable book
+valuable;3;3;Ivory-inlaid snuff box
+valuable;4;4;A gold-pommeled cane
+valuable;5;5;A porcelain mask
+valuable;6;6;A highly valuable satirical woodcut
+valuable;7;7;A lace shawl
+valuable;8;8;Letters said to belong to a noble detailing an infidelity
+valuable;9;9;An oil painting
+valuable;10;10;A large woven rug depicting a bear hunt
+valuable;11;19;Coins, silver shillings
+valuable;20;20;A silver letter opener with jet inlaid in the handle
+valuable;21;21;A cut glass decanter
+valuable;22;22;Sixty charcoal portraits of Empire churches
+valuable;23;23;An ornamental Warhammer
+valuable;24;24;Gold candelabra
+valuable;25;25;An erotic jade statuette
+valuable;26;26;A set of painted plates depicting scenes from the Battle of Black Fire Pass
+valuable;27;27;A jeweled scabbard
+valuable;28;28;An ivory backscratcher
+valuable;29;29;An immaculate model ship inside a glass bottle
+valuable;30;30;A ruby ring
+valuable;31;31;A lacquered cabinet/wardrobe
+valuable;32;32;An original famous book signed by its author
+valuable;33;33;A belt made of Manticore skin stitched with gold leaf
+valuable;34;34;An illuminated prayer book
+valuable;35;35;A lady's brocade dress
+valuable;36;36;A book about witch hunters. It could be a forbidden tome
+valuable;37;37;Ceremonial gold dagger
+valuable;38;38;Jeweled opera glasses
+valuable;39;39;A gold earring
+valuable;40;40;A sealed jar of 'Imperial Jelly', a noble delicacy
+valuable;41;41;A small crown / tiara
+valuable;42;42;A lyre with pearl frets and adorned with rare lacquers
+valuable;43;43;A gilded pastry dedicated to "The Master Baker"
+valuable;44;44;A mother-of-pearl inlaid puzzle box
+valuable;45;45;A silk handkerchief
+valuable;46;46;Ten gold buttons mounted with small rubies
+valuable;47;47;A gold-framed mirror
+valuable;48;48;An anthology of bawdy tales from the cloisters
+valuable;49;49;An ebony and ivory chessboard with silver pieces
+valuable;50;50;A tortoiseshell box
+valuable;51;51;A decorated breastplate
+valuable;52;52;Blueprints for a naval war machine, awaiting Marienburg Engineers Guild patents
+valuable;53;53;Fencing foil. Jeweled hilt. Ornamental
+valuable;54;54;A pair of gold spurs
+valuable;55;55;Cameo depicting Magnus the Pious
+valuable;56;56;An ermine cloak
+valuable;57;57;Tiny ruby slippers
+valuable;58;58;An astronomical chart with illuminations of celestial bodies
+valuable;59;59;An inkwell made from an Orc tusk and capped in silver
+valuable;60;60;A thick gold chain
+valuable;61;61;Painting of Verena
+valuable;62;62;'Wanted' poster of a local serial killer, with notes on their habits and hideouts. Roll for the offered reward value.
+valuable;63;63;Embalmed demon hand
+valuable;64;64;An ornamental Elven bow
+valuable;65;65;A Kislevite amber cameo
+valuable;66;66;An ethereal painting
+valuable;67;67;Herbs and spices from Lustria
+valuable;68;68;Genie in a bottle, pickled in vinegar
+valuable;69;69;A ring bearing the signet of an Empire noble house
+valuable;70;70;A painting by a famous Imperial artist
+valuable;71;71;Ancient coins
+valuable;72;72;A high-powered magnifying glass
+valuable;73;73;A diamond-inlaid choker
+valuable;74;74;A funerary urn painted with dragons
+valuable;75;75;Gold brass knuckles
+valuable;76;76;Bottle of vintage wine
+valuable;77;77;Artist/puppeteer garments
+valuable;78;78;A Cathayan ceramic chamber pot
+valuable;79;79;A pocket watch with an intricate clockwork mechanism
+valuable;80;80;A smoking pipe carved from a single block of alabaster, inlaid with precious stones
+valuable;81;81;A functional model of a steam tank, of Dwarfen make
+valuable;82;82;Expensive noble clothing
+valuable;83;83;A jeweled tiara
+valuable;84;87;Assorted jewelry (rings, necklaces, brooches, or bracelets)
+valuable;88;90;Gems (rubies, sapphires, or semi-precious stones)
+valuable;91;100;Coins
