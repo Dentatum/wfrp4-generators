@@ -1,7 +1,7 @@
 {
   "id": "wfrp4e-generators",
   "title": "WFRP4e - Generators",
-  "version": "2.0.0",
+  "version": "2.1.0",
   "compatibility": {
     "minimum": "13.351",
     "verified": "14"
