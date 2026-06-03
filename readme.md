@@ -2,6 +2,8 @@
 
 This module provides a collection of macros designed to generate randomized elements for **Warhammer Fantasy Roleplay 4th Edition (WFRP4e)**. It incudes settlements, books, inns, and more. It has also some utilities that could help making your games more immersive, like a Morrslieb phase generator.
 
+The module is inspired by the *Liber Fanatica* Series for WFRP2. You can find the original, full documents inside, in a compendium called *Source*.
+
 ## Manual installation
 
 You can install this module manually in Foundry VTT by using the manifest link.
@@ -17,4 +19,24 @@ You can install this module manually in Foundry VTT by using the manifest link.
 
 The module will load a compendium called *Generators*. All you have to do is opening it, clicking on any of the macros it contains and click on *Execute Macro*. You can also drag and drop the macro into the hotbar and use it from there.
 
-Generally, a message will pop up in chat, as a whisper to the GM, with random information about whatever the macro is about (a book, an inn, a settlement...). In some cases, an item will also be created in the items menu, inside a new folder called *WFRP4 Generators* with the information the chat message contains.
+# Inn and settlement generators
+
+When macros are executed, a window will pop, with some options that can be selected or randomized. As soon as the button *Generate* is clicked, a message will be sent to the GM with the related information. Additionally, a journal object will store the output each time it's created. This journal is located inside a folder called *WFRP4 - Generators* (journals).
+
+Further detailed information can be found in *Liber Fanatica III*.
+
+# Book generator
+
+This macro will result in a chat message with information about a random book. Additionally, an miscellaneous item will be created with the resulted info. This item can be found inside a folder called *WFRP4 - Generators* (items).
+
+Further detailed information can be found in *Liber Fanatica III*.
+
+# Morrslieb phase
+
+This macro is intended to represent the erratic phase of Morrslieb. There is a 4% chance of getting the result 'full'. When that occurs, the macro identifies the scene and creates a green lightsource at the exact center of it. **Note**: If you use this macro when the light is present, this light will be be deleted.
+
+Further detailed information can be found in *Liber Fanatica IV*.
+
+# Loot generator (Work in progress)
+
+This macro will generate loot based on the difficulty of a combat, under GM criteria. The result will be 
