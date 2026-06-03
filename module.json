@@ -26,6 +26,18 @@
       "label": "Generators",
       "path": "packs/gens",
       "type": "Macro",
+      "system": "wfrp4e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "source",
+      "label": "Source",
+      "path": "packs/source",
+      "type": "JournalEntry",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -39,7 +51,8 @@
       {
         "id": "wfrp4e",
         "type": "system",
-		"manifest": "https://github.com/moo-man/WFRP4e-FoundryVTT/releases/latest/download/system.json"
+        "manifest": "https://github.com/moo-man/WFRP4e-FoundryVTT/releases/latest/download/system.json",
+        "compatibility": {}
       }
     ]
   },
