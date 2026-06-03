@@ -19,24 +19,24 @@ You can install this module manually in Foundry VTT by using the manifest link.
 
 The module will load a compendium called *Generators*. All you have to do is opening it, clicking on any of the macros it contains and click on *Execute Macro*. You can also drag and drop the macro into the hotbar and use it from there.
 
-# Inn and settlement generators
+### Inn and settlement generators
 
 When macros are executed, a window will pop, with some options that can be selected or randomized. As soon as the button *Generate* is clicked, a message will be sent to the GM with the related information. Additionally, a journal object will store the output each time it's created. This journal is located inside a folder called *WFRP4 - Generators* (journals).
 
 Further detailed information can be found in *Liber Fanatica III*.
 
-# Book generator
+### Book generator
 
 This macro will result in a chat message with information about a random book. Additionally, an miscellaneous item will be created with the resulted info. This item can be found inside a folder called *WFRP4 - Generators* (items).
 
 Further detailed information can be found in *Liber Fanatica III*.
 
-# Morrslieb phase
+### Morrslieb phase
 
 This macro is intended to represent the erratic phase of Morrslieb. There is a 4% chance of getting the result 'full'. When that occurs, the macro identifies the scene and creates a green lightsource at the exact center of it. **Note**: If you use this macro when the light is present, this light will be be deleted.
 
 Further detailed information can be found in *Liber Fanatica IV*.
 
-# Loot generator (Work in progress)
+### Loot generator (Work in progress)
 
 This macro will generate loot based on the difficulty of a combat, under GM criteria. The result will be 
