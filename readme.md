@@ -39,4 +39,4 @@ Further detailed information can be found in *Liber Fanatica IV*.
 
 ### Loot generator (Work in progress)
 
-This macro will generate loot based on the difficulty of a combat, under GM criteria. The result will be 
+This macro will generate loot based on the difficulty of a combat, under GM criteria. The result will be posted as a chat message and also will be created in a journal page.
